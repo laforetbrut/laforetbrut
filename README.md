@@ -132,18 +132,16 @@
 
 <div align="center">
 
-**Tech Stack**
+**Top Languages** &nbsp;·&nbsp; <sub>weighted across all repos in <a href="https://github.com/Team-Arcadia">Team Arcadia</a> + personal repos / pondéré sur tous les repos Team Arcadia et perso</sub>
 
-![Java](https://img.shields.io/badge/Java-FF7B29?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d1117)
-![Kotlin](https://img.shields.io/badge/Kotlin-FF7B29?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0d1117)
-![Gradle](https://img.shields.io/badge/Gradle-FF7B29?style=for-the-badge&logo=gradle&logoColor=white&labelColor=0d1117)
-![PHP](https://img.shields.io/badge/PHP-FF7B29?style=for-the-badge&logo=php&logoColor=white&labelColor=0d1117)
-![JavaScript](https://img.shields.io/badge/JavaScript-FF7B29?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0d1117)
-![Python](https://img.shields.io/badge/Python-FF7B29?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
-![Minecraft](https://img.shields.io/badge/Minecraft-FF7B29?style=for-the-badge&logo=minecraft&logoColor=white&labelColor=0d1117)
-![Linux](https://img.shields.io/badge/Linux-FF7B29?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d1117)
-![Docker](https://img.shields.io/badge/Docker-FF7B29?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117)
-![Git](https://img.shields.io/badge/Git-FF7B29?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)
+![Java](https://img.shields.io/badge/Java-64.75%25-FF7B29?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d1117)
+![PHP](https://img.shields.io/badge/PHP-13.08%25-FF7B29?style=for-the-badge&logo=php&logoColor=white&labelColor=0d1117)
+![Blade](https://img.shields.io/badge/Blade-12.92%25-FF7B29?style=for-the-badge&logo=laravel&logoColor=white&labelColor=0d1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-5.39%25-FF7B29?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0d1117)
+![CSS](https://img.shields.io/badge/CSS-1.94%25-FF7B29?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117)
+![Python](https://img.shields.io/badge/Python-0.96%25-FF7B29?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
+![HTML](https://img.shields.io/badge/HTML-0.81%25-FF7B29?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117)
+![PowerShell](https://img.shields.io/badge/PowerShell-0.05%25-FF7B29?style=for-the-badge&logo=powershell&logoColor=white&labelColor=0d1117)
 
 <br/>
 
