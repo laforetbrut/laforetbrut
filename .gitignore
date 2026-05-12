@@ -1,0 +1,22 @@
+# Claude Code
+.claude/
+CLAUDE.md
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Test procedure artefacts (local QA only — never push)
+test-procedures/
+TEST_PROCEDURE_*.html
