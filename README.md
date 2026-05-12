@@ -222,12 +222,6 @@
 
 <br/>
 
-<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
-
-<sub>3D contribution graph — auto-generated daily / Graphique 3D des contributions, généré quotidiennement</sub>
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=laforetbrut&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=0d1117&ring=FF7B29&fire=FF7B29&currStreakLabel=FF7B29" alt="Streak" />
 
 <br/><br/>
