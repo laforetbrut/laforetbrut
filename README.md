@@ -150,6 +150,7 @@
 
 [![Players 1](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.mcstatus.io%2Fv2%2Fstatus%2Fjava%2F57.128.100.254%3A25567&query=%24.players.online&suffix=%20online&label=%E2%9A%94%20Serveur%201&color=FF7B29&style=for-the-badge&labelColor=0d1117&logo=minecraft&logoColor=white)](https://mcstatus.io/status/java/57.128.100.254:25567)
 [![Players 2](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.mcstatus.io%2Fv2%2Fstatus%2Fjava%2F51.195.235.151%3A25565&query=%24.players.online&suffix=%20online&label=%E2%9A%94%20Serveur%202&color=FF7B29&style=for-the-badge&labelColor=0d1117&logo=minecraft&logoColor=white)](https://mcstatus.io/status/java/51.195.235.151:25565)
+[![Players 3](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.mcstatus.io%2Fv2%2Fstatus%2Fjava%2F51.195.235.151%3A25565&query=%24.players.online&suffix=%20online&label=%E2%9A%94%20Serveur%203&color=FF7B29&style=for-the-badge&labelColor=0d1117&logo=minecraft&logoColor=white)](https://mcstatus.io/status/java/51.195.235.151:25565)
 
 🇺🇸 **USA**
 
