@@ -176,11 +176,11 @@
 
 <!-- CURRENTLY_BUILDING_START -->
 - [`cef19c7`](https://github.com/laforetbrut/laforetbrut/commit/cef19c75dbc753358d162df3c44cf0f54cc7d020) **laforetbrut/laforetbrut** — feat: replace tech stack with weighted top languages (real % across all repos)
-- [`6465a29`](https://github.com/Team-Arcadia/azuriom-wiki/commit/6465a29d4d90153814046958fd6ae9433ba3e497) **Team-Arcadia/azuriom-wiki** — chore: standardize repository scaffolding
-- [`3f51dba`](https://github.com/Team-Arcadia/azuriom-poll/commit/3f51dba66288fd6e01a6d35ea91cd7fa5b392e67) **Team-Arcadia/azuriom-poll** — chore: point docs and plugin.json to Team-Arcadia/azuriom-poll repo
 - [`7120fb2`](https://github.com/Team-Arcadia/Cron-Manager-Azuriom/commit/7120fb23835567acee9629f2de58e4a43525d473) **Team-Arcadia/Cron-Manager-Azuriom** — chore: standardise repo layout, docs, and CI to Team Arcadia convention
-- [`e1db10a`](https://github.com/Team-Arcadia/azuriom-referral/commit/e1db10a79ab347412689c8eac5d3c7d1318ba5b5) **Team-Arcadia/azuriom-referral** — docs: refresh README/CHANGELOG/RULES to Team-Arcadia standard
-- [`244822d`](https://github.com/Team-Arcadia/Azuriom-bugtracker/commit/244822dd55910c3930230a8997aabdeb30331915) **Team-Arcadia/Azuriom-bugtracker** — chore: standardize repository structure
+- [`3115e65`](https://github.com/Team-Arcadia/Arcadia-RsPolymorph/commit/3115e6558c81746ef599a3a2941259e062366ec9) **Team-Arcadia/Arcadia-RsPolymorph** — docs(curseforge): fix Playtime badge — em-dash breaks shields.io URL
+- [`0f293aa`](https://github.com/Team-Arcadia/TrailAndTalesDelight/commit/0f293aa088e19e96459990df4367a857db29785c) **Team-Arcadia/TrailAndTalesDelight** — fix(patcher): introspect target FD jar to skip fields kept as ModConfigSpec
+- [`87615a0`](https://github.com/Team-Arcadia/EndersDelight/commit/87615a0b57b63baa93cf0c96228d8ed6d8cd62d7) **Team-Arcadia/EndersDelight** — revert: restore original license declaration in mods.toml
+- [`f590f06`](https://github.com/Azuriom/Azuriom/commit/f590f06d279662f02f92b5e3ff4a6f0b13fb0bfb) **Azuriom/Azuriom** — Improve role permissions UI (#532)
 <!-- CURRENTLY_BUILDING_END -->
 
 ---
@@ -224,11 +224,11 @@
 ### ⛏ Quote / Citation
 
 <!-- QUOTE_START -->
-> ⛏ *"Minecraft is what it is because I kept being passionate about it."*
-> — **Markus "Notch" Persson**, creator of Minecraft
+> ⛏ *"The world is only as limited as your imagination."*
+> — **Mojang**, Minecraft tagline
 
-> ⛏ *"Minecraft est ce qu'il est parce que je suis resté passionné par lui."*
-> — **Markus "Notch" Persson**, créateur de Minecraft
+> ⛏ *"Le monde n'est limité que par ton imagination."*
+> — **Mojang**, slogan Minecraft
 <!-- QUOTE_END -->
 
 </div>
