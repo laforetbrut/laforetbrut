@@ -71,6 +71,7 @@
 [![Linkme](https://img.shields.io/badge/All%20my%20links-FF7B29?style=for-the-badge&logo=linktree&logoColor=white&labelColor=0d1117)](https://link.me/vyrriox)
 [![CurseForge](https://img.shields.io/badge/CurseForge-vyrriox-FF7B29?style=for-the-badge&logo=curseforge&logoColor=white&labelColor=0d1117)](https://www.curseforge.com/members/vyrriox/projects)
 [![Discord](https://img.shields.io/badge/Discord-Arcadia-FF7B29?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://arcadia-echoes-of-power.fr/discord)
+[![Donate](https://img.shields.io/badge/%E2%99%A5%20Donate-Support%20the%20project-FF7B29?style=for-the-badge&logo=stripe&logoColor=white&labelColor=0d1117)](https://buy.stripe.com/3cI3co6X97Vy4IK50QfIs00)
 
 </div>
 
@@ -135,6 +136,7 @@
 [![Linkme](https://img.shields.io/badge/Tous%20mes%20liens-FF7B29?style=for-the-badge&logo=linktree&logoColor=white&labelColor=0d1117)](https://link.me/vyrriox)
 [![CurseForge](https://img.shields.io/badge/CurseForge-vyrriox-FF7B29?style=for-the-badge&logo=curseforge&logoColor=white&labelColor=0d1117)](https://www.curseforge.com/members/vyrriox/projects)
 [![Discord](https://img.shields.io/badge/Discord-Arcadia-FF7B29?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://arcadia-echoes-of-power.fr/discord)
+[![Donate](https://img.shields.io/badge/%E2%99%A5%20Faire%20un%20don-Soutenir%20le%20projet-FF7B29?style=for-the-badge&logo=stripe&logoColor=white&labelColor=0d1117)](https://buy.stripe.com/3cI3co6X97Vy4IK50QfIs00)
 
 </div>
 
@@ -165,9 +167,14 @@
 
 <div align="center">
 
-[![Discord Widget](https://discord.com/api/guilds/1346965857288589472/widget.png?style=banner2)](https://arcadia-echoes-of-power.fr/discord)
+[![Server](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Fguilds%2F1346965857288589472%2Fwidget.json&query=%24.name&label=%E2%9A%94%20Server&color=FF7B29&style=for-the-badge&labelColor=0d1117&logo=discord&logoColor=white)](https://arcadia-echoes-of-power.fr/discord)
+[![Members Online](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Fguilds%2F1346965857288589472%2Fwidget.json&query=%24.presence_count&suffix=%20online&label=%F0%9F%9F%A2&color=FF7B29&style=for-the-badge&labelColor=0d1117&logo=discord&logoColor=white)](https://arcadia-echoes-of-power.fr/discord)
 
-[![Join Discord](https://img.shields.io/badge/Join%20the%20Server-arcadia--echoes--of--power.fr%2Fdiscord-FF7B29?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://arcadia-echoes-of-power.fr/discord)
+[![Join the Server](https://img.shields.io/badge/%E2%9E%9C%20Join%20the%20Server-arcadia--echoes--of--power.fr%2Fdiscord-FF7B29?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://arcadia-echoes-of-power.fr/discord)
+
+<br/>
+
+[![Support the project](https://img.shields.io/badge/%E2%99%A5%20Support%20the%20project%20%E2%80%A2%20Soutenir%20le%20projet-Stripe-FF7B29?style=for-the-badge&logo=stripe&logoColor=white&labelColor=0d1117)](https://buy.stripe.com/3cI3co6X97Vy4IK50QfIs00)
 
 </div>
 
