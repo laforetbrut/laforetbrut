@@ -19,11 +19,22 @@
 
 ### Featured Project
 
-<a href="https://github.com/Team-Arcadia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Team-Arcadia&repo=Arcadia-Echoes-of-Power&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF7B29&icon_color=FF7B29&text_color=c9d1d9" alt="Arcadia: Echoes of Power" />
-</a>
+<div align="center">
 
-> **[Team Arcadia](https://github.com/Team-Arcadia)** — The home of *Arcadia: Echoes of Power*. Custom mechanics, curated mods, and an evolving fantasy ruleset.
+[![Arcadia: Echoes of Power](https://img.shields.io/badge/%E2%9A%94%20ARCADIA-Echoes%20of%20Power-FF7B29?style=for-the-badge&labelColor=0d1117&logoColor=FF7B29)](https://github.com/Team-Arcadia)
+[![NeoForge](https://img.shields.io/badge/NeoForge-1.21.1-FF7B29?style=for-the-badge&labelColor=0d1117)](https://github.com/Team-Arcadia)
+[![Modpack](https://img.shields.io/badge/490%2B%20mods-3000%2B%20quests-FF7B29?style=for-the-badge&labelColor=0d1117)](https://github.com/Team-Arcadia)
+
+</div>
+
+> **[Team Arcadia](https://github.com/Team-Arcadia)** — Home of *Arcadia: Echoes of Power*, a NeoForge 1.21.1 modpack where magic meets machinery. Custom cross-mod progression, curated mods, and an evolving ruleset.
+
+<a href="https://github.com/Team-Arcadia/Arcadia-Dungeon">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Team-Arcadia&repo=Arcadia-Dungeon&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF7B29&icon_color=FF7B29&text_color=c9d1d9" alt="Arcadia-Dungeon" />
+</a>
+<a href="https://github.com/Team-Arcadia/Arcadia-RsPolymorph">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Team-Arcadia&repo=Arcadia-RsPolymorph&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF7B29&icon_color=FF7B29&text_color=c9d1d9" alt="Arcadia-RsPolymorph" />
+</a>
 
 ### Connect
 
@@ -38,11 +49,22 @@
 
 ### Projet phare
 
-<a href="https://github.com/Team-Arcadia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Team-Arcadia&repo=Arcadia-Echoes-of-Power&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF7B29&icon_color=FF7B29&text_color=c9d1d9&locale=fr" alt="Arcadia: Echoes of Power" />
-</a>
+<div align="center">
 
-> **[Team Arcadia](https://github.com/Team-Arcadia)** — La maison d'*Arcadia: Echoes of Power*. Mécaniques sur mesure, mods sélectionnés, et un univers fantasy en évolution constante.
+[![Arcadia: Echoes of Power](https://img.shields.io/badge/%E2%9A%94%20ARCADIA-Echoes%20of%20Power-FF7B29?style=for-the-badge&labelColor=0d1117&logoColor=FF7B29)](https://github.com/Team-Arcadia)
+[![NeoForge](https://img.shields.io/badge/NeoForge-1.21.1-FF7B29?style=for-the-badge&labelColor=0d1117)](https://github.com/Team-Arcadia)
+[![Modpack](https://img.shields.io/badge/490%2B%20mods-3000%2B%20qu%C3%AAtes-FF7B29?style=for-the-badge&labelColor=0d1117)](https://github.com/Team-Arcadia)
+
+</div>
+
+> **[Team Arcadia](https://github.com/Team-Arcadia)** — La maison d'*Arcadia: Echoes of Power*, un modpack NeoForge 1.21.1 où la magie rencontre la machinerie. Progression cross-mod sur mesure, mods sélectionnés, et un univers en évolution constante.
+
+<a href="https://github.com/Team-Arcadia/Arcadia-Dungeon">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Team-Arcadia&repo=Arcadia-Dungeon&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF7B29&icon_color=FF7B29&text_color=c9d1d9&locale=fr" alt="Arcadia-Dungeon" />
+</a>
+<a href="https://github.com/Team-Arcadia/Arcadia-RsPolymorph">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Team-Arcadia&repo=Arcadia-RsPolymorph&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF7B29&icon_color=FF7B29&text_color=c9d1d9&locale=fr" alt="Arcadia-RsPolymorph" />
+</a>
 
 ### Me contacter
 
