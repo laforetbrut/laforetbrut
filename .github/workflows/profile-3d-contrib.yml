@@ -21,7 +21,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: laforetbrut
           MAX_REPOS: 100
-          SETTING_JSON: profile-3d-contrib/settings.json
 
       - name: Commit changes
         run: |
