@@ -66,7 +66,13 @@
 
 ### Connect
 
+<div align="center">
+
 [![Linkme](https://img.shields.io/badge/All%20my%20links-FF7B29?style=for-the-badge&logo=linktree&logoColor=white&labelColor=0d1117)](https://link.me/vyrriox)
+[![CurseForge](https://img.shields.io/badge/CurseForge-vyrriox-FF7B29?style=for-the-badge&logo=curseforge&logoColor=white&labelColor=0d1117)](https://www.curseforge.com/members/vyrriox/projects)
+[![Discord](https://img.shields.io/badge/Discord-Arcadia-FF7B29?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://discord.com/channels/1346965857288589472)
+
+</div>
 
 ---
 
@@ -124,11 +130,62 @@
 
 ### Me contacter
 
+<div align="center">
+
 [![Linkme](https://img.shields.io/badge/Tous%20mes%20liens-FF7B29?style=for-the-badge&logo=linktree&logoColor=white&labelColor=0d1117)](https://link.me/vyrriox)
+[![CurseForge](https://img.shields.io/badge/CurseForge-vyrriox-FF7B29?style=for-the-badge&logo=curseforge&logoColor=white&labelColor=0d1117)](https://www.curseforge.com/members/vyrriox/projects)
+[![Discord](https://img.shields.io/badge/Discord-Arcadia-FF7B29?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://discord.com/channels/1346965857288589472)
+
+</div>
 
 ---
 
-## Stats / Statistiques
+## ⚔ Live Servers / Serveurs en ligne
+
+<div align="center">
+
+<sub>Status updated in real-time via mcstatus.io · Status mis à jour en temps réel via mcstatus.io</sub>
+
+🇫🇷 **France**
+
+[![Serveur 1](https://img.shields.io/badge/%E2%9A%94%20Serveur%201-Conseill%C3%A9-FF7B29?style=for-the-badge&logo=minecraft&logoColor=white&labelColor=0d1117)](https://mcstatus.io/status/java/57.128.100.254:25567)
+[![IP 1](https://img.shields.io/badge/57.128.100.254%3A25567-FF7B29?style=for-the-badge&labelColor=0d1117)](https://mcstatus.io/status/java/57.128.100.254:25567)
+[![Players 1](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.mcstatus.io%2Fv2%2Fstatus%2Fjava%2F57.128.100.254%3A25567&query=%24.players.online&suffix=%20online&label=%E2%96%B6%EF%B8%8E&color=FF7B29&style=for-the-badge&labelColor=0d1117)](https://mcstatus.io/status/java/57.128.100.254:25567)
+
+[![Serveur 2](https://img.shields.io/badge/%E2%9A%94%20Serveur%202-Disponible-FF7B29?style=for-the-badge&logo=minecraft&logoColor=white&labelColor=0d1117)](https://mcstatus.io/status/java/51.195.235.151:25565)
+[![IP 2](https://img.shields.io/badge/51.195.235.151%3A25565-FF7B29?style=for-the-badge&labelColor=0d1117)](https://mcstatus.io/status/java/51.195.235.151:25565)
+[![Players 2](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.mcstatus.io%2Fv2%2Fstatus%2Fjava%2F51.195.235.151%3A25565&query=%24.players.online&suffix=%20online&label=%E2%96%B6%EF%B8%8E&color=FF7B29&style=for-the-badge&labelColor=0d1117)](https://mcstatus.io/status/java/51.195.235.151:25565)
+
+🇺🇸 **USA**
+
+[![Serveur 4](https://img.shields.io/badge/%E2%9A%94%20Serveur%204-Disponible-FF7B29?style=for-the-badge&logo=minecraft&logoColor=white&labelColor=0d1117)](https://mcstatus.io/status/java/103.195.102.81:25525)
+[![IP 4](https://img.shields.io/badge/103.195.102.81%3A25525-FF7B29?style=for-the-badge&labelColor=0d1117)](https://mcstatus.io/status/java/103.195.102.81:25525)
+[![Players 4](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.mcstatus.io%2Fv2%2Fstatus%2Fjava%2F103.195.102.81%3A25525&query=%24.players.online&suffix=%20online&label=%E2%96%B6%EF%B8%8E&color=FF7B29&style=for-the-badge&labelColor=0d1117)](https://mcstatus.io/status/java/103.195.102.81:25525)
+
+[![Serveur 5](https://img.shields.io/badge/%E2%9A%94%20Serveur%205-Conseill%C3%A9-FF7B29?style=for-the-badge&logo=minecraft&logoColor=white&labelColor=0d1117)](https://mcstatus.io/status/java/172.93.103.205:25545)
+[![IP 5](https://img.shields.io/badge/172.93.103.205%3A25545-FF7B29?style=for-the-badge&labelColor=0d1117)](https://mcstatus.io/status/java/172.93.103.205:25545)
+[![Players 5](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.mcstatus.io%2Fv2%2Fstatus%2Fjava%2F172.93.103.205%3A25545&query=%24.players.online&suffix=%20online&label=%E2%96%B6%EF%B8%8E&color=FF7B29&style=for-the-badge&labelColor=0d1117)](https://mcstatus.io/status/java/172.93.103.205:25545)
+
+</div>
+
+---
+
+## 🔨 Currently Building / En cours
+
+<sub>Latest commits across <a href="https://github.com/Team-Arcadia">Team Arcadia</a> and personal repos — auto-updated daily / Derniers commits, mis à jour quotidiennement</sub>
+
+<!-- CURRENTLY_BUILDING_START -->
+- [`cef19c7`](https://github.com/laforetbrut/laforetbrut/commit/cef19c75dbc753358d162df3c44cf0f54cc7d020) **laforetbrut/laforetbrut** — feat: replace tech stack with weighted top languages (real % across all repos)
+- [`6465a29`](https://github.com/Team-Arcadia/azuriom-wiki/commit/6465a29d4d90153814046958fd6ae9433ba3e497) **Team-Arcadia/azuriom-wiki** — chore: standardize repository scaffolding
+- [`3f51dba`](https://github.com/Team-Arcadia/azuriom-poll/commit/3f51dba66288fd6e01a6d35ea91cd7fa5b392e67) **Team-Arcadia/azuriom-poll** — chore: point docs and plugin.json to Team-Arcadia/azuriom-poll repo
+- [`7120fb2`](https://github.com/Team-Arcadia/Cron-Manager-Azuriom/commit/7120fb23835567acee9629f2de58e4a43525d473) **Team-Arcadia/Cron-Manager-Azuriom** — chore: standardise repo layout, docs, and CI to Team Arcadia convention
+- [`e1db10a`](https://github.com/Team-Arcadia/azuriom-referral/commit/e1db10a79ab347412689c8eac5d3c7d1318ba5b5) **Team-Arcadia/azuriom-referral** — docs: refresh README/CHANGELOG/RULES to Team-Arcadia standard
+- [`244822d`](https://github.com/Team-Arcadia/Azuriom-bugtracker/commit/244822dd55910c3930230a8997aabdeb30331915) **Team-Arcadia/Azuriom-bugtracker** — chore: standardize repository structure
+<!-- CURRENTLY_BUILDING_END -->
+
+---
+
+## 📊 Stats / Statistiques
 
 <div align="center">
 
@@ -148,6 +205,8 @@
 ![Followers](https://img.shields.io/github/followers/laforetbrut?style=for-the-badge&color=FF7B29&labelColor=0d1117&logo=github&label=FOLLOWERS)
 ![Stars](https://img.shields.io/github/stars/laforetbrut?style=for-the-badge&color=FF7B29&labelColor=0d1117&logo=github&label=STARS&affiliations=OWNER%2CCOLLABORATOR)
 
+[![3D Skyline](https://img.shields.io/badge/%F0%9F%8F%99%20View%203D%20Contribution%20Skyline-FF7B29?style=for-the-badge&labelColor=0d1117)](https://skyline.github.com/laforetbrut/2026)
+
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=laforetbrut&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=0d1117&ring=FF7B29&fire=FF7B29&currStreakLabel=FF7B29" alt="Streak" />
@@ -162,13 +221,15 @@
 
 <div align="center">
 
-### Quote / Citation
+### ⛏ Quote / Citation
 
-> ⛏ *"I'd much rather lose with style than win without."*
+<!-- QUOTE_START -->
+> ⛏ *"Minecraft is what it is because I kept being passionate about it."*
 > — **Markus "Notch" Persson**, creator of Minecraft
 
-> ⛏ *"Je préfère perdre avec style que gagner sans."*
+> ⛏ *"Minecraft est ce qu'il est parce que je suis resté passionné par lui."*
 > — **Markus "Notch" Persson**, créateur de Minecraft
+<!-- QUOTE_END -->
 
 </div>
 
