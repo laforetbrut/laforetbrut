@@ -220,7 +220,11 @@
 ![Followers](https://img.shields.io/github/followers/laforetbrut?style=for-the-badge&color=FF7B29&labelColor=0d1117&logo=github&label=FOLLOWERS)
 ![Stars](https://img.shields.io/github/stars/laforetbrut?style=for-the-badge&color=FF7B29&labelColor=0d1117&logo=github&label=STARS&affiliations=OWNER%2CCOLLABORATOR)
 
-[![3D Skyline](https://img.shields.io/badge/%F0%9F%8F%99%20View%203D%20Contribution%20Skyline-FF7B29?style=for-the-badge&labelColor=0d1117)](https://skyline.github.com/laforetbrut/2026)
+<br/>
+
+<img src="./profile-3d-contrib/profile-orange.svg" alt="3D Contribution Graph" />
+
+<sub>3D contribution graph — auto-generated daily / Graphique 3D des contributions, généré quotidiennement</sub>
 
 <br/>
 
