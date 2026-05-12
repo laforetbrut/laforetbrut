@@ -1,8 +1,9 @@
 [
-  {"slug": "minecraft/mc-mods/rs-polymorph", "url_path": "minecraft/mc-mods/rs-polymorph", "label": "Polymorphic Refined Storage"},
-  {"slug": "minecraft/mc-mods/arcadia-lootbox", "url_path": "minecraft/mc-mods/arcadia-lootbox", "label": "Arcadia LootBox"},
-  {"slug": "minecraft/mc-mods/arcadia-admin-pannel", "url_path": "minecraft/mc-mods/arcadia-admin-pannel", "label": "Arcadia Admin Pannel"},
-  {"slug": "minecraft/mc-mods/arcadia-spawn-dimension", "url_path": "minecraft/mc-mods/arcadia-spawn-dimension", "label": "Arcadia Spawn Dimension"},
-  {"slug": "minecraft/modpacks/arcadia-echoes", "url_path": "minecraft/modpacks/arcadia-echoes", "label": "Arcadia: Echoes of Power"},
-  {"slug": "minecraft/mc-mods/arcadia-games", "url_path": "minecraft/mc-mods/arcadia-games", "label": "Arcadia Games"}
+  {"url_path": "minecraft/modpacks/arcadia-echoes-of-power-v2", "label": "Arcadia: Echoes of Power V2"},
+  {"url_path": "minecraft/mc-mods/rs-polymorph", "label": "Polymorphic Refined Storage"},
+  {"url_path": "minecraft/mc-mods/arcadia-lootbox", "label": "Arcadia LootBox"},
+  {"url_path": "minecraft/mc-mods/arcadia-admin-pannel", "label": "Arcadia Admin Pannel"},
+  {"url_path": "minecraft/mc-mods/arcadia-spawn-dimension", "label": "Arcadia Spawn Dimension"},
+  {"url_path": "minecraft/mc-mods/laura-compagne", "label": "My Girlfriend Laura"},
+  {"url_path": "minecraft/mc-mods/arcadia-games", "label": "Arcadia Games"}
 ]
