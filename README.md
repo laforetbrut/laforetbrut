@@ -31,12 +31,36 @@
 
 <table align="center">
 <tr>
-<td><a href="https://github.com/Team-Arcadia/Arcadia-RsPolymorph"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Team-Arcadia&repo=Arcadia-RsPolymorph&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF7B29&icon_color=FF7B29&text_color=c9d1d9" alt="Arcadia-RsPolymorph" /></a></td>
-<td><a href="https://github.com/Team-Arcadia/Arcadia-Admin-Pannel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Team-Arcadia&repo=Arcadia-Admin-Pannel&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF7B29&icon_color=FF7B29&text_color=c9d1d9" alt="Arcadia-Admin-Pannel" /></a></td>
+<td valign="top" width="50%">
+<h4><a href="https://github.com/Team-Arcadia/Arcadia-RsPolymorph">📦 Arcadia-RsPolymorph</a></h4>
+<sub>NeoForge mod — Polymorph compatibility for Refined Storage 2 (recipe selection in Crafting & Pattern Grid).</sub><br/><br/>
+<img src="https://img.shields.io/github/stars/Team-Arcadia/Arcadia-RsPolymorph?style=flat&color=FF7B29&labelColor=0d1117&logo=github" />
+<img src="https://img.shields.io/github/forks/Team-Arcadia/Arcadia-RsPolymorph?style=flat&color=FF7B29&labelColor=0d1117&logo=github" />
+<img src="https://img.shields.io/github/last-commit/Team-Arcadia/Arcadia-RsPolymorph?style=flat&color=FF7B29&labelColor=0d1117&logo=git" />
+</td>
+<td valign="top" width="50%">
+<h4><a href="https://github.com/Team-Arcadia/Arcadia-Admin-Pannel">🛠 Arcadia-Admin-Pannel</a></h4>
+<sub>Minecraft admin panel mod for Arcadia server management.</sub><br/><br/>
+<img src="https://img.shields.io/github/stars/Team-Arcadia/Arcadia-Admin-Pannel?style=flat&color=FF7B29&labelColor=0d1117&logo=github" />
+<img src="https://img.shields.io/github/forks/Team-Arcadia/Arcadia-Admin-Pannel?style=flat&color=FF7B29&labelColor=0d1117&logo=github" />
+<img src="https://img.shields.io/github/last-commit/Team-Arcadia/Arcadia-Admin-Pannel?style=flat&color=FF7B29&labelColor=0d1117&logo=git" />
+</td>
 </tr>
 <tr>
-<td><a href="https://github.com/Team-Arcadia/Arcadia-LootBox"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Team-Arcadia&repo=Arcadia-LootBox&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF7B29&icon_color=FF7B29&text_color=c9d1d9" alt="Arcadia-LootBox" /></a></td>
-<td><a href="https://github.com/Team-Arcadia/Arcadia-Spawn-Dimension"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Team-Arcadia&repo=Arcadia-Spawn-Dimension&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF7B29&icon_color=FF7B29&text_color=c9d1d9" alt="Arcadia-Spawn-Dimension" /></a></td>
+<td valign="top" width="50%">
+<h4><a href="https://github.com/Team-Arcadia/Arcadia-LootBox">🎁 Arcadia-LootBox</a></h4>
+<sub>Minecraft mod adding a loot box system for the Arcadia server.</sub><br/><br/>
+<img src="https://img.shields.io/github/stars/Team-Arcadia/Arcadia-LootBox?style=flat&color=FF7B29&labelColor=0d1117&logo=github" />
+<img src="https://img.shields.io/github/forks/Team-Arcadia/Arcadia-LootBox?style=flat&color=FF7B29&labelColor=0d1117&logo=github" />
+<img src="https://img.shields.io/github/last-commit/Team-Arcadia/Arcadia-LootBox?style=flat&color=FF7B29&labelColor=0d1117&logo=git" />
+</td>
+<td valign="top" width="50%">
+<h4><a href="https://github.com/Team-Arcadia/Arcadia-Spawn-Dimension">🌍 Arcadia-Spawn-Dimension</a></h4>
+<sub>Minecraft mod adding a custom spawn dimension for the Arcadia server.</sub><br/><br/>
+<img src="https://img.shields.io/github/stars/Team-Arcadia/Arcadia-Spawn-Dimension?style=flat&color=FF7B29&labelColor=0d1117&logo=github" />
+<img src="https://img.shields.io/github/forks/Team-Arcadia/Arcadia-Spawn-Dimension?style=flat&color=FF7B29&labelColor=0d1117&logo=github" />
+<img src="https://img.shields.io/github/last-commit/Team-Arcadia/Arcadia-Spawn-Dimension?style=flat&color=FF7B29&labelColor=0d1117&logo=git" />
+</td>
 </tr>
 </table>
 
@@ -65,12 +89,36 @@
 
 <table align="center">
 <tr>
-<td><a href="https://github.com/Team-Arcadia/Arcadia-RsPolymorph"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Team-Arcadia&repo=Arcadia-RsPolymorph&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF7B29&icon_color=FF7B29&text_color=c9d1d9&locale=fr" alt="Arcadia-RsPolymorph" /></a></td>
-<td><a href="https://github.com/Team-Arcadia/Arcadia-Admin-Pannel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Team-Arcadia&repo=Arcadia-Admin-Pannel&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF7B29&icon_color=FF7B29&text_color=c9d1d9&locale=fr" alt="Arcadia-Admin-Pannel" /></a></td>
+<td valign="top" width="50%">
+<h4><a href="https://github.com/Team-Arcadia/Arcadia-RsPolymorph">📦 Arcadia-RsPolymorph</a></h4>
+<sub>Mod NeoForge — compatibilité Polymorph pour Refined Storage 2 (sélection de recette dans Crafting & Pattern Grid).</sub><br/><br/>
+<img src="https://img.shields.io/github/stars/Team-Arcadia/Arcadia-RsPolymorph?style=flat&color=FF7B29&labelColor=0d1117&logo=github" />
+<img src="https://img.shields.io/github/forks/Team-Arcadia/Arcadia-RsPolymorph?style=flat&color=FF7B29&labelColor=0d1117&logo=github" />
+<img src="https://img.shields.io/github/last-commit/Team-Arcadia/Arcadia-RsPolymorph?style=flat&color=FF7B29&labelColor=0d1117&logo=git" />
+</td>
+<td valign="top" width="50%">
+<h4><a href="https://github.com/Team-Arcadia/Arcadia-Admin-Pannel">🛠 Arcadia-Admin-Pannel</a></h4>
+<sub>Mod Minecraft — panneau d'administration pour la gestion du serveur Arcadia.</sub><br/><br/>
+<img src="https://img.shields.io/github/stars/Team-Arcadia/Arcadia-Admin-Pannel?style=flat&color=FF7B29&labelColor=0d1117&logo=github" />
+<img src="https://img.shields.io/github/forks/Team-Arcadia/Arcadia-Admin-Pannel?style=flat&color=FF7B29&labelColor=0d1117&logo=github" />
+<img src="https://img.shields.io/github/last-commit/Team-Arcadia/Arcadia-Admin-Pannel?style=flat&color=FF7B29&labelColor=0d1117&logo=git" />
+</td>
 </tr>
 <tr>
-<td><a href="https://github.com/Team-Arcadia/Arcadia-LootBox"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Team-Arcadia&repo=Arcadia-LootBox&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF7B29&icon_color=FF7B29&text_color=c9d1d9&locale=fr" alt="Arcadia-LootBox" /></a></td>
-<td><a href="https://github.com/Team-Arcadia/Arcadia-Spawn-Dimension"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Team-Arcadia&repo=Arcadia-Spawn-Dimension&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF7B29&icon_color=FF7B29&text_color=c9d1d9&locale=fr" alt="Arcadia-Spawn-Dimension" /></a></td>
+<td valign="top" width="50%">
+<h4><a href="https://github.com/Team-Arcadia/Arcadia-LootBox">🎁 Arcadia-LootBox</a></h4>
+<sub>Mod Minecraft ajoutant un système de loot boxes pour le serveur Arcadia.</sub><br/><br/>
+<img src="https://img.shields.io/github/stars/Team-Arcadia/Arcadia-LootBox?style=flat&color=FF7B29&labelColor=0d1117&logo=github" />
+<img src="https://img.shields.io/github/forks/Team-Arcadia/Arcadia-LootBox?style=flat&color=FF7B29&labelColor=0d1117&logo=github" />
+<img src="https://img.shields.io/github/last-commit/Team-Arcadia/Arcadia-LootBox?style=flat&color=FF7B29&labelColor=0d1117&logo=git" />
+</td>
+<td valign="top" width="50%">
+<h4><a href="https://github.com/Team-Arcadia/Arcadia-Spawn-Dimension">🌍 Arcadia-Spawn-Dimension</a></h4>
+<sub>Mod Minecraft ajoutant une dimension de spawn personnalisée pour le serveur Arcadia.</sub><br/><br/>
+<img src="https://img.shields.io/github/stars/Team-Arcadia/Arcadia-Spawn-Dimension?style=flat&color=FF7B29&labelColor=0d1117&logo=github" />
+<img src="https://img.shields.io/github/forks/Team-Arcadia/Arcadia-Spawn-Dimension?style=flat&color=FF7B29&labelColor=0d1117&logo=github" />
+<img src="https://img.shields.io/github/last-commit/Team-Arcadia/Arcadia-Spawn-Dimension?style=flat&color=FF7B29&labelColor=0d1117&logo=git" />
+</td>
 </tr>
 </table>
 
@@ -84,8 +132,23 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=laforetbrut&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF7B29&icon_color=FF7B29&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laforetbrut&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF7B29&text_color=c9d1d9&langs_count=8" />
+**Tech Stack**
+
+![Java](https://img.shields.io/badge/Java-FF7B29?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d1117)
+![Kotlin](https://img.shields.io/badge/Kotlin-FF7B29?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0d1117)
+![Gradle](https://img.shields.io/badge/Gradle-FF7B29?style=for-the-badge&logo=gradle&logoColor=white&labelColor=0d1117)
+![PHP](https://img.shields.io/badge/PHP-FF7B29?style=for-the-badge&logo=php&logoColor=white&labelColor=0d1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF7B29?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0d1117)
+![Python](https://img.shields.io/badge/Python-FF7B29?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
+![Minecraft](https://img.shields.io/badge/Minecraft-FF7B29?style=for-the-badge&logo=minecraft&logoColor=white&labelColor=0d1117)
+![Linux](https://img.shields.io/badge/Linux-FF7B29?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d1117)
+![Docker](https://img.shields.io/badge/Docker-FF7B29?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117)
+![Git](https://img.shields.io/badge/Git-FF7B29?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)
+
+<br/>
+
+![Followers](https://img.shields.io/github/followers/laforetbrut?style=for-the-badge&color=FF7B29&labelColor=0d1117&logo=github&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/laforetbrut?style=for-the-badge&color=FF7B29&labelColor=0d1117&logo=github&label=STARS&affiliations=OWNER%2CCOLLABORATOR)
 
 <br/>
 
