@@ -232,11 +232,11 @@
 ### ⛏ Quote / Citation
 
 <!-- QUOTE_START -->
-> ⛏ *"The world is only as limited as your imagination."*
-> — **Mojang**, Minecraft tagline
+> ⛏ *"It's just a game. But the worlds are real."*
+> — **Minecraft community**, community saying
 
-> ⛏ *"Le monde n'est limité que par ton imagination."*
-> — **Mojang**, slogan Minecraft
+> ⛏ *"Ce n'est qu'un jeu. Mais les mondes sont réels."*
+> — **Minecraft community**, dicton de la communauté
 <!-- QUOTE_END -->
 
 </div>
