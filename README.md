@@ -103,7 +103,11 @@
 
 ### Quote / Citation
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+> ⛏ *"I'd much rather lose with style than win without."*
+> — **Markus "Notch" Persson**, creator of Minecraft
+
+> ⛏ *"Je préfère perdre avec style que gagner sans."*
+> — **Markus "Notch" Persson**, créateur de Minecraft
 
 </div>
 
