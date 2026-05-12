@@ -70,7 +70,7 @@
 
 [![Linkme](https://img.shields.io/badge/All%20my%20links-FF7B29?style=for-the-badge&logo=linktree&logoColor=white&labelColor=0d1117)](https://link.me/vyrriox)
 [![CurseForge](https://img.shields.io/badge/CurseForge-vyrriox-FF7B29?style=for-the-badge&logo=curseforge&logoColor=white&labelColor=0d1117)](https://www.curseforge.com/members/vyrriox/projects)
-[![Discord](https://img.shields.io/badge/Discord-Arcadia-FF7B29?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://discord.com/channels/1346965857288589472)
+[![Discord](https://img.shields.io/badge/Discord-Arcadia-FF7B29?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://arcadia-echoes-of-power.fr/discord)
 
 </div>
 
@@ -134,7 +134,7 @@
 
 [![Linkme](https://img.shields.io/badge/Tous%20mes%20liens-FF7B29?style=for-the-badge&logo=linktree&logoColor=white&labelColor=0d1117)](https://link.me/vyrriox)
 [![CurseForge](https://img.shields.io/badge/CurseForge-vyrriox-FF7B29?style=for-the-badge&logo=curseforge&logoColor=white&labelColor=0d1117)](https://www.curseforge.com/members/vyrriox/projects)
-[![Discord](https://img.shields.io/badge/Discord-Arcadia-FF7B29?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://discord.com/channels/1346965857288589472)
+[![Discord](https://img.shields.io/badge/Discord-Arcadia-FF7B29?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://arcadia-echoes-of-power.fr/discord)
 
 </div>
 
@@ -148,40 +148,27 @@
 
 🇫🇷 **France**
 
-[![Serveur 1](https://img.shields.io/badge/%E2%9A%94%20Serveur%201-Conseill%C3%A9-FF7B29?style=for-the-badge&logo=minecraft&logoColor=white&labelColor=0d1117)](https://mcstatus.io/status/java/57.128.100.254:25567)
-[![IP 1](https://img.shields.io/badge/57.128.100.254%3A25567-FF7B29?style=for-the-badge&labelColor=0d1117)](https://mcstatus.io/status/java/57.128.100.254:25567)
-[![Players 1](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.mcstatus.io%2Fv2%2Fstatus%2Fjava%2F57.128.100.254%3A25567&query=%24.players.online&suffix=%20online&label=%E2%96%B6%EF%B8%8E&color=FF7B29&style=for-the-badge&labelColor=0d1117)](https://mcstatus.io/status/java/57.128.100.254:25567)
-
-[![Serveur 2](https://img.shields.io/badge/%E2%9A%94%20Serveur%202-Disponible-FF7B29?style=for-the-badge&logo=minecraft&logoColor=white&labelColor=0d1117)](https://mcstatus.io/status/java/51.195.235.151:25565)
-[![IP 2](https://img.shields.io/badge/51.195.235.151%3A25565-FF7B29?style=for-the-badge&labelColor=0d1117)](https://mcstatus.io/status/java/51.195.235.151:25565)
-[![Players 2](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.mcstatus.io%2Fv2%2Fstatus%2Fjava%2F51.195.235.151%3A25565&query=%24.players.online&suffix=%20online&label=%E2%96%B6%EF%B8%8E&color=FF7B29&style=for-the-badge&labelColor=0d1117)](https://mcstatus.io/status/java/51.195.235.151:25565)
+[![Players 1](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.mcstatus.io%2Fv2%2Fstatus%2Fjava%2F57.128.100.254%3A25567&query=%24.players.online&suffix=%20online&label=%E2%9A%94%20Serveur%201&color=FF7B29&style=for-the-badge&labelColor=0d1117&logo=minecraft&logoColor=white)](https://mcstatus.io/status/java/57.128.100.254:25567)
+[![Players 2](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.mcstatus.io%2Fv2%2Fstatus%2Fjava%2F51.195.235.151%3A25565&query=%24.players.online&suffix=%20online&label=%E2%9A%94%20Serveur%202&color=FF7B29&style=for-the-badge&labelColor=0d1117&logo=minecraft&logoColor=white)](https://mcstatus.io/status/java/51.195.235.151:25565)
 
 🇺🇸 **USA**
 
-[![Serveur 4](https://img.shields.io/badge/%E2%9A%94%20Serveur%204-Disponible-FF7B29?style=for-the-badge&logo=minecraft&logoColor=white&labelColor=0d1117)](https://mcstatus.io/status/java/103.195.102.81:25525)
-[![IP 4](https://img.shields.io/badge/103.195.102.81%3A25525-FF7B29?style=for-the-badge&labelColor=0d1117)](https://mcstatus.io/status/java/103.195.102.81:25525)
-[![Players 4](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.mcstatus.io%2Fv2%2Fstatus%2Fjava%2F103.195.102.81%3A25525&query=%24.players.online&suffix=%20online&label=%E2%96%B6%EF%B8%8E&color=FF7B29&style=for-the-badge&labelColor=0d1117)](https://mcstatus.io/status/java/103.195.102.81:25525)
-
-[![Serveur 5](https://img.shields.io/badge/%E2%9A%94%20Serveur%205-Conseill%C3%A9-FF7B29?style=for-the-badge&logo=minecraft&logoColor=white&labelColor=0d1117)](https://mcstatus.io/status/java/172.93.103.205:25545)
-[![IP 5](https://img.shields.io/badge/172.93.103.205%3A25545-FF7B29?style=for-the-badge&labelColor=0d1117)](https://mcstatus.io/status/java/172.93.103.205:25545)
-[![Players 5](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.mcstatus.io%2Fv2%2Fstatus%2Fjava%2F172.93.103.205%3A25545&query=%24.players.online&suffix=%20online&label=%E2%96%B6%EF%B8%8E&color=FF7B29&style=for-the-badge&labelColor=0d1117)](https://mcstatus.io/status/java/172.93.103.205:25545)
+[![Players 4](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.mcstatus.io%2Fv2%2Fstatus%2Fjava%2F103.195.102.81%3A25525&query=%24.players.online&suffix=%20online&label=%E2%9A%94%20Serveur%204&color=FF7B29&style=for-the-badge&labelColor=0d1117&logo=minecraft&logoColor=white)](https://mcstatus.io/status/java/103.195.102.81:25525)
+[![Players 5](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.mcstatus.io%2Fv2%2Fstatus%2Fjava%2F172.93.103.205%3A25545&query=%24.players.online&suffix=%20online&label=%E2%9A%94%20Serveur%205&color=FF7B29&style=for-the-badge&labelColor=0d1117&logo=minecraft&logoColor=white)](https://mcstatus.io/status/java/172.93.103.205:25545)
 
 </div>
 
 ---
 
-## 🔨 Currently Building / En cours
+## 💬 Discord — Arcadia: Echoes of Power
 
-<sub>Latest commits across <a href="https://github.com/Team-Arcadia">Team Arcadia</a> and personal repos — auto-updated daily / Derniers commits, mis à jour quotidiennement</sub>
+<div align="center">
 
-<!-- CURRENTLY_BUILDING_START -->
-- [`cef19c7`](https://github.com/laforetbrut/laforetbrut/commit/cef19c75dbc753358d162df3c44cf0f54cc7d020) **laforetbrut/laforetbrut** — feat: replace tech stack with weighted top languages (real % across all repos)
-- [`7120fb2`](https://github.com/Team-Arcadia/Cron-Manager-Azuriom/commit/7120fb23835567acee9629f2de58e4a43525d473) **Team-Arcadia/Cron-Manager-Azuriom** — chore: standardise repo layout, docs, and CI to Team Arcadia convention
-- [`3115e65`](https://github.com/Team-Arcadia/Arcadia-RsPolymorph/commit/3115e6558c81746ef599a3a2941259e062366ec9) **Team-Arcadia/Arcadia-RsPolymorph** — docs(curseforge): fix Playtime badge — em-dash breaks shields.io URL
-- [`0f293aa`](https://github.com/Team-Arcadia/TrailAndTalesDelight/commit/0f293aa088e19e96459990df4367a857db29785c) **Team-Arcadia/TrailAndTalesDelight** — fix(patcher): introspect target FD jar to skip fields kept as ModConfigSpec
-- [`87615a0`](https://github.com/Team-Arcadia/EndersDelight/commit/87615a0b57b63baa93cf0c96228d8ed6d8cd62d7) **Team-Arcadia/EndersDelight** — revert: restore original license declaration in mods.toml
-- [`f590f06`](https://github.com/Azuriom/Azuriom/commit/f590f06d279662f02f92b5e3ff4a6f0b13fb0bfb) **Azuriom/Azuriom** — Improve role permissions UI (#532)
-<!-- CURRENTLY_BUILDING_END -->
+[![Discord Widget](https://discord.com/api/guilds/1346965857288589472/widget.png?style=banner2)](https://arcadia-echoes-of-power.fr/discord)
+
+[![Join Discord](https://img.shields.io/badge/Join%20the%20Server-arcadia--echoes--of--power.fr%2Fdiscord-FF7B29?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://arcadia-echoes-of-power.fr/discord)
+
+</div>
 
 ---
 
