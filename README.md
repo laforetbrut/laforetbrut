@@ -29,12 +29,16 @@
 
 > **[Team Arcadia](https://github.com/Team-Arcadia)** — Home of *Arcadia: Echoes of Power*, a NeoForge 1.21.1 modpack where magic meets machinery. Custom cross-mod progression, curated mods, and an evolving ruleset.
 
-<a href="https://github.com/Team-Arcadia/Arcadia-Dungeon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Team-Arcadia&repo=Arcadia-Dungeon&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF7B29&icon_color=FF7B29&text_color=c9d1d9" alt="Arcadia-Dungeon" />
-</a>
-<a href="https://github.com/Team-Arcadia/Arcadia-RsPolymorph">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Team-Arcadia&repo=Arcadia-RsPolymorph&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF7B29&icon_color=FF7B29&text_color=c9d1d9" alt="Arcadia-RsPolymorph" />
-</a>
+<table align="center">
+<tr>
+<td><a href="https://github.com/Team-Arcadia/Arcadia-RsPolymorph"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Team-Arcadia&repo=Arcadia-RsPolymorph&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF7B29&icon_color=FF7B29&text_color=c9d1d9" alt="Arcadia-RsPolymorph" /></a></td>
+<td><a href="https://github.com/Team-Arcadia/Arcadia-Admin-Pannel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Team-Arcadia&repo=Arcadia-Admin-Pannel&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF7B29&icon_color=FF7B29&text_color=c9d1d9" alt="Arcadia-Admin-Pannel" /></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/Team-Arcadia/Arcadia-LootBox"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Team-Arcadia&repo=Arcadia-LootBox&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF7B29&icon_color=FF7B29&text_color=c9d1d9" alt="Arcadia-LootBox" /></a></td>
+<td><a href="https://github.com/Team-Arcadia/Arcadia-Spawn-Dimension"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Team-Arcadia&repo=Arcadia-Spawn-Dimension&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF7B29&icon_color=FF7B29&text_color=c9d1d9" alt="Arcadia-Spawn-Dimension" /></a></td>
+</tr>
+</table>
 
 ### Connect
 
@@ -59,12 +63,16 @@
 
 > **[Team Arcadia](https://github.com/Team-Arcadia)** — La maison d'*Arcadia: Echoes of Power*, un modpack NeoForge 1.21.1 où la magie rencontre la machinerie. Progression cross-mod sur mesure, mods sélectionnés, et un univers en évolution constante.
 
-<a href="https://github.com/Team-Arcadia/Arcadia-Dungeon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Team-Arcadia&repo=Arcadia-Dungeon&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF7B29&icon_color=FF7B29&text_color=c9d1d9&locale=fr" alt="Arcadia-Dungeon" />
-</a>
-<a href="https://github.com/Team-Arcadia/Arcadia-RsPolymorph">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Team-Arcadia&repo=Arcadia-RsPolymorph&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF7B29&icon_color=FF7B29&text_color=c9d1d9&locale=fr" alt="Arcadia-RsPolymorph" />
-</a>
+<table align="center">
+<tr>
+<td><a href="https://github.com/Team-Arcadia/Arcadia-RsPolymorph"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Team-Arcadia&repo=Arcadia-RsPolymorph&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF7B29&icon_color=FF7B29&text_color=c9d1d9&locale=fr" alt="Arcadia-RsPolymorph" /></a></td>
+<td><a href="https://github.com/Team-Arcadia/Arcadia-Admin-Pannel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Team-Arcadia&repo=Arcadia-Admin-Pannel&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF7B29&icon_color=FF7B29&text_color=c9d1d9&locale=fr" alt="Arcadia-Admin-Pannel" /></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/Team-Arcadia/Arcadia-LootBox"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Team-Arcadia&repo=Arcadia-LootBox&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF7B29&icon_color=FF7B29&text_color=c9d1d9&locale=fr" alt="Arcadia-LootBox" /></a></td>
+<td><a href="https://github.com/Team-Arcadia/Arcadia-Spawn-Dimension"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Team-Arcadia&repo=Arcadia-Spawn-Dimension&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF7B29&icon_color=FF7B29&text_color=c9d1d9&locale=fr" alt="Arcadia-Spawn-Dimension" /></a></td>
+</tr>
+</table>
 
 ### Me contacter
 
