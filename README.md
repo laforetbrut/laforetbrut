@@ -4,8 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Amateur+%E2%9A%94+Manager+of+Arcadia%3A+Echoes+of+Power;Modpack+Architect+%26+Systems+Tinkerer;Building+with+Team+Arcadia)](https://git.io/typing-svg)
 
-![Profile views](https://komarev.com/ghpvc/?username=vyrriox&style=flat-square&color=58A6FF&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/vyrriox?style=flat-square&color=58A6FF&labelColor=0d1117&logo=github)](https://github.com/vyrriox)
+![Profile views](https://komarev.com/ghpvc/?username=laforetbrut&style=flat-square&color=58A6FF&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/laforetbrut?style=flat-square&color=58A6FF&labelColor=0d1117&logo=github)](https://github.com/laforetbrut)
 [![Team Arcadia](https://img.shields.io/badge/Team-Arcadia-58A6FF?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Team-Arcadia)
 
 </div>
@@ -54,16 +54,16 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=vyrriox&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyrriox&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=laforetbrut&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laforetbrut&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vyrriox&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=laforetbrut&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vyrriox&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true" alt="Activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=laforetbrut&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true" alt="Activity graph" />
 
 </div>
 
