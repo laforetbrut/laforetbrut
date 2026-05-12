@@ -1,7 +1,7 @@
 {
   "themes": [
     {
-      "name": "githubAuburn",
+      "type": "githubAuburn",
       "fileName": "profile-orange.svg"
     }
   ]
