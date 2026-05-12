@@ -222,7 +222,7 @@
 
 <br/>
 
-<img src="./profile-3d-contrib/profile-orange.svg" alt="3D Contribution Graph" />
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
 
 <sub>3D contribution graph — auto-generated daily / Graphique 3D des contributions, généré quotidiennement</sub>
 
