@@ -183,11 +183,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-> ⛏ *"And the player was a new story, never told before, written in letters of DNA."*
-> — **Julian Gough**, Minecraft End Poem
+> ⛏ *"Don't take life too seriously. Even if you do, you won't make it out alive."*
+> — **Markus "Notch" Persson**, creator of Minecraft
 
-> ⛏ *"Et le joueur était une nouvelle histoire, jamais racontée, écrite en lettres d'ADN."*
-> — **Julian Gough**, Poème de fin de Minecraft
+> ⛏ *"Ne prends pas la vie trop au sérieux. Même si tu le fais, tu n'en sortiras pas vivant."*
+> — **Markus "Notch" Persson**, créateur de Minecraft
 <!-- QUOTE_END -->
 
 </div>
