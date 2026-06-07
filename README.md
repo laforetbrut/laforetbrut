@@ -183,11 +183,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-> ⛏ *"Don't take life too seriously. Even if you do, you won't make it out alive."*
-> — **Markus "Notch" Persson**, creator of Minecraft
+> ⛏ *"Sometimes I see the dream wake the dreamer."*
+> — **Julian Gough**, Minecraft End Poem
 
-> ⛏ *"Ne prends pas la vie trop au sérieux. Même si tu le fais, tu n'en sortiras pas vivant."*
-> — **Markus "Notch" Persson**, créateur de Minecraft
+> ⛏ *"Parfois je vois le rêve éveiller le rêveur."*
+> — **Julian Gough**, Poème de fin de Minecraft
 <!-- QUOTE_END -->
 
 </div>
