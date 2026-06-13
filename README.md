@@ -116,13 +116,13 @@
 <sub>🇫🇷 France</sub>
 
 [![Serveur 1](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.mcstatus.io%2Fv2%2Fstatus%2Fjava%2F57.128.100.254%3A25567&query=%24.players.online&suffix=%20online&label=Serveur%201&color=30363d&style=flat-square&labelColor=0d1117)](https://mcstatus.io/status/java/serveur1.arcadia-eop.com)
-[![Serveur 2](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.mcstatus.io%2Fv2%2Fstatus%2Fjava%2F51.195.235.151%3A25565&query=%24.players.online&suffix=%20online&label=Serveur%202&color=30363d&style=flat-square&labelColor=0d1117)](https://mcstatus.io/status/java/serveur2.arcadia-eop.com))
-[![Serveur 3](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.mcstatus.io%2Fv2%2Fstatus%2Fjava%2F51.195.235.151%3A25565&query=%24.players.online&suffix=%20online&label=Serveur%203&color=30363d&style=flat-square&labelColor=0d1117)](https://mcstatus.io/status/java/serveur3.arcadia-eop.com))
+[![Serveur 2](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.mcstatus.io%2Fv2%2Fstatus%2Fjava%2F51.195.235.151%3A25565&query=%24.players.online&suffix=%20online&label=Serveur%202&color=30363d&style=flat-square&labelColor=0d1117)](https://mcstatus.io/status/java/serveur2.arcadia-eop.com)
+[![Serveur 3](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.mcstatus.io%2Fv2%2Fstatus%2Fjava%2F51.195.235.151%3A25565&query=%24.players.online&suffix=%20online&label=Serveur%203&color=30363d&style=flat-square&labelColor=0d1117)](https://mcstatus.io/status/java/serveur3.arcadia-eop.com)
 
 <sub>🇺🇸 USA</sub>
 
-[![Serveur 4](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.mcstatus.io%2Fv2%2Fstatus%2Fjava%2F103.195.102.81%3A25525&query=%24.players.online&suffix=%20online&label=Serveur%204&color=30363d&style=flat-square&labelColor=0d1117)](https://mcstatus.io/status/java/serveur4.arcadia-eop.com))
-[![Serveur 5](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.mcstatus.io%2Fv2%2Fstatus%2Fjava%2F172.93.103.205%3A25545&query=%24.players.online&suffix=%20online&label=Serveur%205&color=30363d&style=flat-square&labelColor=0d1117)](https://mcstatus.io/status/java/serveur5.arcadia-eop.com))
+[![Serveur 4](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.mcstatus.io%2Fv2%2Fstatus%2Fjava%2F103.195.102.81%3A25525&query=%24.players.online&suffix=%20online&label=Serveur%204&color=30363d&style=flat-square&labelColor=0d1117)](https://mcstatus.io/status/java/serveur4.arcadia-eop.com)
+[![Serveur 5](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.mcstatus.io%2Fv2%2Fstatus%2Fjava%2F172.93.103.205%3A25545&query=%24.players.online&suffix=%20online&label=Serveur%205&color=30363d&style=flat-square&labelColor=0d1117)](https://mcstatus.io/status/java/serveur5.arcadia-eop.com)
 
 </div>
 
