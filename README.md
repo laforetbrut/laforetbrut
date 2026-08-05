@@ -145,13 +145,13 @@
 <div align="center">
 
 <!-- CURSEFORGE_START -->
-![Total Downloads](https://img.shields.io/badge/Total%20Downloads-477.6k-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white) ![Projects](https://img.shields.io/badge/Projects-7-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)
+![Total Downloads](https://img.shields.io/badge/Total%20Downloads-479.1k-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white) ![Projects](https://img.shields.io/badge/Projects-7-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)
 
-[![Polymorphic Refined Storage](https://img.shields.io/badge/Polymorphic%20Refined%20Storage-200.4k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/rs-polymorph)
-[![Arcadia: Echoes of Power V2](https://img.shields.io/badge/Arcadia%3A%20Echoes%20of%20Power%20V2-109.7k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/modpacks/arcadia-echoes-of-power-v2)
+[![Polymorphic Refined Storage](https://img.shields.io/badge/Polymorphic%20Refined%20Storage-201.6k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/rs-polymorph)
+[![Arcadia: Echoes of Power V2](https://img.shields.io/badge/Arcadia%3A%20Echoes%20of%20Power%20V2-109.8k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/modpacks/arcadia-echoes-of-power-v2)
 [![Arcadia LootBox](https://img.shields.io/badge/Arcadia%20LootBox-53.5k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-lootbox)
 [![Arcadia Admin Pannel](https://img.shields.io/badge/Arcadia%20Admin%20Pannel-53.1k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-admin-pannel)
-[![Arcadia Spawn Dimension](https://img.shields.io/badge/Arcadia%20Spawn%20Dimension-50.8k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-spawn-dimension)
+[![Arcadia Spawn Dimension](https://img.shields.io/badge/Arcadia%20Spawn%20Dimension-50.9k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-spawn-dimension)
 <!-- CURSEFORGE_END -->
 
 </div>
@@ -183,11 +183,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-> ⛏ *"The world is only as limited as your imagination."*
-> — **Mojang**, Minecraft tagline
+> ⛏ *"I'd much rather lose with style than win without."*
+> — **Markus "Notch" Persson**, creator of Minecraft
 
-> ⛏ *"Le monde n'est limité que par ton imagination."*
-> — **Mojang**, slogan Minecraft
+> ⛏ *"Je préfère perdre avec style que gagner sans."*
+> — **Markus "Notch" Persson**, créateur de Minecraft
 <!-- QUOTE_END -->
 
 </div>
