@@ -145,13 +145,13 @@
 <div align="center">
 
 <!-- CURSEFORGE_START -->
-![Total Downloads](https://img.shields.io/badge/Total%20Downloads-503.5k-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white) ![Projects](https://img.shields.io/badge/Projects-7-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)
+![Total Downloads](https://img.shields.io/badge/Total%20Downloads-504.9k-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white) ![Projects](https://img.shields.io/badge/Projects-7-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)
 
-[![Polymorphic Refined Storage](https://img.shields.io/badge/Polymorphic%20Refined%20Storage-220.3k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/rs-polymorph)
+[![Polymorphic Refined Storage](https://img.shields.io/badge/Polymorphic%20Refined%20Storage-221.4k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/rs-polymorph)
 [![Arcadia: Echoes of Power V2](https://img.shields.io/badge/Arcadia%3A%20Echoes%20of%20Power%20V2-110.9k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/modpacks/arcadia-echoes-of-power-v2)
-[![Arcadia LootBox](https://img.shields.io/badge/Arcadia%20LootBox-54.9k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-lootbox)
+[![Arcadia LootBox](https://img.shields.io/badge/Arcadia%20LootBox-55.0k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-lootbox)
 [![Arcadia Admin Pannel](https://img.shields.io/badge/Arcadia%20Admin%20Pannel-54.3k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-admin-pannel)
-[![Arcadia Spawn Dimension](https://img.shields.io/badge/Arcadia%20Spawn%20Dimension-51.8k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-spawn-dimension)
+[![Arcadia Spawn Dimension](https://img.shields.io/badge/Arcadia%20Spawn%20Dimension-51.9k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-spawn-dimension)
 <!-- CURSEFORGE_END -->
 
 </div>
@@ -183,11 +183,11 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-> ⛏ *"Block by block, anything is possible."*
-> — **Mojang**, Minecraft motto
+> ⛏ *"The universe said I love you because you are love."*
+> — **Julian Gough**, Minecraft End Poem
 
-> ⛏ *"Bloc par bloc, tout est possible."*
-> — **Mojang**, devise Minecraft
+> ⛏ *"L'univers a dit je t'aime parce que tu es amour."*
+> — **Julian Gough**, Poème de fin de Minecraft
 <!-- QUOTE_END -->
 
 </div>
