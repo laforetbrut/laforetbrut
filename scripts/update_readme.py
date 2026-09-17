@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-"""Rotate the Minecraft quote, refresh CurseForge stats, GitHub stars, languages and activity graph."""
+"""Rotate the Minecraft quote, refresh CurseForge stats, languages, activity graph and SVG cards.
+
+@author vyrriox
+"""
 from __future__ import annotations
 
 import json
@@ -11,6 +14,8 @@ import urllib.parse
 import urllib.request
 from pathlib import Path
 
+import cards
+
 ROOT = Path(__file__).resolve().parent.parent
 README = ROOT / "README.md"
 QUOTES_FILE = ROOT / "scripts" / "quotes.json"
@@ -18,9 +23,15 @@ CF_PROJECTS_FILE = ROOT / "scripts" / "cf_projects.json"
 
 QUOTE_MARK = re.compile(r"<!-- QUOTE_START -->.*?<!-- QUOTE_END -->", re.DOTALL)
 CF_MARK = re.compile(r"<!-- CURSEFORGE_START -->.*?<!-- CURSEFORGE_END -->", re.DOTALL)
-STARS_MARK = re.compile(r"<!-- STARS_START -->.*?<!-- STARS_END -->", re.DOTALL)
 LANG_MARK = re.compile(r"<!-- LANGUAGES_START -->.*?<!-- LANGUAGES_END -->", re.DOTALL)
 ACTIVITY_SVG = ROOT / "assets" / "activity.svg"
+CARDS_DIR = ROOT / "assets" / "cards"
+CARD_REPOS = [
+    "laforetbrut/v-core-framework-fivem", "laforetbrut/v-phone-fivem", "laforetbrut/v-hud-fivem",
+    "laforetbrut/v-sport-fivem", "laforetbrut/v-park-fivem",
+    "Team-Arcadia/Arcadia-V2-Client", "Team-Arcadia/Arcadia-Admin-Pannel", "Team-Arcadia/Arcadia-Games",
+    "Team-Arcadia/Arcadia-Dungeon", "Team-Arcadia/Arcadia-RsPolymorph", "Team-Arcadia/Arcadia-LootBox",
+]
 
 GH_USER = "laforetbrut"
 GH_ORG = "Team-Arcadia"
@@ -129,8 +140,7 @@ def build_curseforge_block(projects: list[dict]) -> str:
     return header + "\n\n" + "\n".join(rows)
 
 
-def update_curseforge(content: str) -> str:
-    projects = fetch_cf_projects()
+def update_curseforge(content: str, projects: list[dict]) -> str:
     block = build_curseforge_block(projects)
     return CF_MARK.sub(
         f"<!-- CURSEFORGE_START -->\n{block}\n<!-- CURSEFORGE_END -->",
@@ -177,18 +187,6 @@ def shield(label: str, value: str, color: str, style: str, logo: str | None) -> 
     if logo:
         url += f"&logo={logo}&logoColor=white"
     return f"![{label}]({url})"
-
-
-def build_stars_block(user_repos: list[dict], org_repos: list[dict]) -> str | None:
-    if not user_repos and not org_repos:
-        return None
-    user_stars = sum(r.get("stargazers_count", 0) for r in user_repos)
-    org_stars = sum(r.get("stargazers_count", 0) for r in org_repos)
-    return " ".join([
-        shield("Stars earned", fmt_count(user_stars + org_stars), BADGE_COLOR, "for-the-badge", "github"),
-        shield("Personal repos", f"{fmt_count(user_stars)} stars", "30363d", "for-the-badge", "github"),
-        shield("Team Arcadia", f"{fmt_count(org_stars)} stars", "30363d", "for-the-badge", "github"),
-    ])
 
 
 def build_languages_block(repos: list[dict]) -> str | None:
@@ -260,13 +258,34 @@ def build_activity_svg(days: list[tuple[str, int]], span: int = 31) -> str:
     )
 
 
-def update_github(content: str) -> str:
+def build_cards(user_repos: list[dict], org_repos: list[dict], days: list[tuple[str, int]],
+                cf_projects: list[dict]) -> None:
+    by_name = {f"{r['owner']['login']}/{r['name']}": r for r in user_repos + org_repos}
+    for full_name in CARD_REPOS:
+        repo = by_name.get(full_name)
+        if repo:
+            svg = cards.repo_card(repo["name"], repo.get("description") or "", repo.get("stargazers_count", 0),
+                                  repo.get("language"))
+            cards.write(CARDS_DIR / f"{repo['name'].lower()}.svg", svg)
+
+    cards.write(CARDS_DIR / "more-fivem.svg",
+                cards.link_card("All FiveM repositories", "Tous les repos FiveM"))
+
+    if not user_repos and not org_repos:
+        return
+    stars = sum(r.get("stargazers_count", 0) for r in user_repos + org_repos)
+    items = [("GitHub stars earned", fmt_count(stars))]
+    if days:
+        items.append(("Contributions, last 12 months", fmt_count(sum(c for _, c in days))))
+    items.append(("Public repositories", str(len(user_repos) + len(org_repos))))
+    if cf_projects:
+        items.append(("CurseForge downloads", fmt_downloads(sum(p["downloads"] for p in cf_projects))))
+    cards.write(CARDS_DIR / "stats.svg", cards.stats_card(items))
+
+
+def update_github(content: str, cf_projects: list[dict]) -> str:
     user_repos = list_public_repos(GH_USER, "users")
     org_repos = list_public_repos(GH_ORG, "orgs")
-
-    stars = build_stars_block(user_repos, org_repos)
-    if stars:
-        content = STARS_MARK.sub(f"<!-- STARS_START -->\n{stars}\n<!-- STARS_END -->", content)
 
     langs = build_languages_block(user_repos + org_repos)
     if langs:
@@ -276,6 +295,8 @@ def update_github(content: str) -> str:
     if days:
         ACTIVITY_SVG.parent.mkdir(exist_ok=True)
         ACTIVITY_SVG.write_text(build_activity_svg(days), encoding="utf-8")
+
+    build_cards(user_repos, org_repos, days, cf_projects)
     return content
 
 
@@ -285,8 +306,9 @@ def main() -> int:
         return 1
     content = README.read_text(encoding="utf-8")
     content = rotate_quote(content)
-    content = update_curseforge(content)
-    content = update_github(content)
+    cf_projects = fetch_cf_projects()
+    content = update_curseforge(content, cf_projects)
+    content = update_github(content, cf_projects)
     README.write_text(content, encoding="utf-8")
     return 0
 
