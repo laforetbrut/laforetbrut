@@ -114,6 +114,38 @@ def stats_card(items: list[tuple[str, str]]) -> str:
     )
 
 
+def _fmt_date(iso: str) -> str:
+    months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+    return f"{months[int(iso[5:7]) - 1]} {int(iso[8:10])}" if iso else ""
+
+
+def streak_card(current: int, longest: int, total: int, since: str) -> str:
+    w, h = 850, 190
+    since_label = f"since {_fmt_date(since)}" if current else "no active streak"
+
+    def side(x: float, value: str, label: str) -> str:
+        return (f'<text x="{x}" y="92" text-anchor="middle" fill="{TEXT}" font-size="30" font-weight="700">{value}</text>'
+                f'<text x="{x}" y="124" text-anchor="middle" fill="{MUTED}" font-size="14">{label}</text>')
+
+    return (
+        f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" {FONT}>\n'
+        f'<style>.ring{{stroke-dasharray:252;stroke-dashoffset:252;animation:draw 1.2s ease-out forwards}}'
+        f'@keyframes draw{{to{{stroke-dashoffset:0}}}}</style>\n'
+        f'<rect x="0.5" y="0.5" width="{w - 1}" height="{h - 1}" rx="10" fill="{BG}" stroke="{BORDER}"/>\n'
+        f'{side(w / 6, f"{total:,}", "Contributions, last 12 months")}\n'
+        f'<line x1="{w / 3:.1f}" y1="35" x2="{w / 3:.1f}" y2="{h - 35}" stroke="{BORDER}"/>\n'
+        f'<circle cx="{w / 2}" cy="80" r="40" fill="none" stroke="{BORDER}" stroke-width="5"/>\n'
+        f'<circle class="ring" cx="{w / 2}" cy="80" r="40" fill="none" stroke="{ACCENT}" stroke-width="5" '
+        f'transform="rotate(-90 {w / 2} 80)"/>\n'
+        f'<text x="{w / 2}" y="91" text-anchor="middle" fill="{TEXT}" font-size="30" font-weight="700">{current}</text>\n'
+        f'<text x="{w / 2}" y="146" text-anchor="middle" fill="{ACCENT}" font-size="15" font-weight="600">Current streak</text>\n'
+        f'<text x="{w / 2}" y="166" text-anchor="middle" fill="{MUTED}" font-size="12">{since_label}</text>\n'
+        f'<line x1="{2 * w / 3:.1f}" y1="35" x2="{2 * w / 3:.1f}" y2="{h - 35}" stroke="{BORDER}"/>\n'
+        f'{side(5 * w / 6, str(longest), "Longest streak, days")}\n'
+        f'</svg>\n'
+    )
+
+
 def write(path: Path, svg: str) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(svg, encoding="utf-8")

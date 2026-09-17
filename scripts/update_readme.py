@@ -10,6 +10,8 @@ import os
 import random
 import re
 import sys
+from datetime import datetime, timezone
+import urllib.error
 import urllib.parse
 import urllib.request
 from pathlib import Path
@@ -148,7 +150,7 @@ def update_curseforge(content: str, projects: list[dict]) -> str:
     )
 
 
-def gh_request(url: str, body: dict | None = None) -> dict | list | None:
+def gh_request(url: str, body: dict | None = None, quiet_404: bool = False) -> dict | list | None:
     headers = {"User-Agent": "vyrriox-profile-readme/1.0", "Accept": "application/vnd.github+json"}
     token = os.environ.get("GH_TOKEN")
     if token:
@@ -158,6 +160,10 @@ def gh_request(url: str, body: dict | None = None) -> dict | list | None:
     try:
         with urllib.request.urlopen(req, timeout=20) as r:
             return json.loads(r.read().decode("utf-8"))
+    except urllib.error.HTTPError as e:
+        if not (quiet_404 and e.code == 404):
+            print(f"github request failed for {url}: {e}", file=sys.stderr)
+        return None
     except Exception as e:
         print(f"github request failed for {url}: {e}", file=sys.stderr)
         return None
@@ -297,7 +303,88 @@ def update_github(content: str, cf_projects: list[dict]) -> str:
         ACTIVITY_SVG.write_text(build_activity_svg(days), encoding="utf-8")
 
     build_cards(user_repos, org_repos, days, cf_projects)
+    if days:
+        cards.write(CARDS_DIR / "streak.svg", cards.streak_card(*compute_streaks(days)))
+
+    content = replace_block(content, "RECENT_ACTIVITY", build_recent_activity())
+    content = replace_block(content, "RELEASES", build_releases(user_repos + org_repos))
+    stamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    content = replace_block(content, "UPDATED", f"<sub>Last updated / Dernière mise à jour : {stamp}</sub>")
     return content
+
+
+def replace_block(content: str, name: str, block: str | None) -> str:
+    if not block:
+        return content
+    pattern = re.compile(rf"<!-- {name}_START -->.*?<!-- {name}_END -->", re.DOTALL)
+    return pattern.sub(lambda _: f"<!-- {name}_START -->\n{block}\n<!-- {name}_END -->", content)
+
+
+def compute_streaks(days: list[tuple[str, int]]) -> tuple[int, int, int, str]:
+    total = sum(c for _, c in days)
+    longest = run = 0
+    for _, count in days:
+        run = run + 1 if count else 0
+        longest = max(longest, run)
+    current = 0
+    # Today may not have contributions yet; it does not break the streak.
+    trail = days[:-1] if days and days[-1][1] == 0 else days
+    for _, count in reversed(trail):
+        if not count:
+            break
+        current += 1
+    since = trail[-current][0] if current else ""
+    return current, longest, total, since
+
+
+EVENT_LABELS = {
+    "PushEvent": "Pushed to",
+    "ReleaseEvent": "Released",
+    "CreateEvent": "Created",
+    "PullRequestEvent": "Pull request on",
+    "IssuesEvent": "Issue on",
+    "PublicEvent": "Open-sourced",
+}
+
+
+def build_recent_activity(limit: int = 6) -> str | None:
+    events = gh_request(f"{GH_API}/users/{GH_USER}/events/public?per_page=100")
+    if not isinstance(events, list):
+        return None
+    rows, seen = [], set()
+    for e in sorted(events, key=lambda e: e["created_at"], reverse=True):
+        label = EVENT_LABELS.get(e["type"])
+        repo = e["repo"]["name"]
+        if not label or repo == f"{GH_USER}/{GH_USER}":
+            continue
+        detail = ""
+        if e["type"] == "ReleaseEvent":
+            detail = f" `{(e['payload'].get('release') or {}).get('tag_name', '')}`"
+        elif e["type"] == "CreateEvent" and e["payload"].get("ref_type") != "repository":
+            continue
+        key = (label, repo, detail)
+        if key in seen:
+            continue
+        seen.add(key)
+        rows.append(f"| {e['created_at'][:10]} | {label} [{repo}](https://github.com/{repo}){detail} |")
+        if len(rows) == limit:
+            break
+    if not rows:
+        return None
+    return "| Date | Activity |\n|:--|:--|\n" + "\n".join(rows)
+
+
+def build_releases(repos: list[dict], limit: int = 5) -> str | None:
+    found = []
+    for r in repos:
+        rel = gh_request(f"{GH_API}/repos/{r['full_name']}/releases/latest", quiet_404=True)
+        if isinstance(rel, dict) and rel.get("published_at"):
+            found.append((rel["published_at"], r["full_name"], rel.get("tag_name", ""), rel.get("html_url", "")))
+    if not found:
+        return None
+    rows = [f"| {d[:10]} | [{name}](https://github.com/{name}) | [`{tag}`]({url}) |"
+            for d, name, tag, url in sorted(found, reverse=True)[:limit]]
+    return "| Date | Repository | Version |\n|:--|:--|:--|\n" + "\n".join(rows)
 
 
 def main() -> int:

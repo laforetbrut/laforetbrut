@@ -71,7 +71,7 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 
 <br/><br/>
 
-<sub>CurseForge downloads, updated daily / Téléchargements CurseForge, mis à jour chaque jour</sub>
+<sub>CurseForge downloads, refreshed every 6 hours / Téléchargements CurseForge, actualisés toutes les 6 heures</sub>
 
 <!-- CURSEFORGE_START -->
 ![Total Downloads](https://img.shields.io/badge/Total%20Downloads-541.6k-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white) ![Projects](https://img.shields.io/badge/Projects-7-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)
@@ -92,11 +92,11 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 <div align="center">
 
 <!-- LANGUAGES_START -->
-![Lua](https://img.shields.io/badge/Lua-37.28%25-FF7B29?style=flat-square&labelColor=0d1117&logo=lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-33.11%25-30363d?style=flat-square&labelColor=0d1117&logo=javascript&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-37.27%25-FF7B29?style=flat-square&labelColor=0d1117&logo=lua&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-33.10%25-30363d?style=flat-square&labelColor=0d1117&logo=javascript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-17.16%25-30363d?style=flat-square&labelColor=0d1117&logo=openjdk&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-6.76%25-30363d?style=flat-square&labelColor=0d1117&logo=css&logoColor=white)
-![Python](https://img.shields.io/badge/Python-4.08%25-30363d?style=flat-square&labelColor=0d1117&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4.10%25-30363d?style=flat-square&labelColor=0d1117&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-0.96%25-30363d?style=flat-square&labelColor=0d1117&logo=html5&logoColor=white)
 <!-- LANGUAGES_END -->
 
@@ -104,7 +104,7 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=laforetbrut&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=FF7B29&fire=FF7B29&currStreakLabel=FF7B29&sideNums=e6edf3&dates=8b949e&sideLabels=8b949e&currStreakNum=e6edf3" alt="Streak" width="100%" />
+<img src="assets/cards/streak.svg" alt="Streak" width="100%" />
 
 <img src="assets/activity.svg" alt="Activity graph" width="100%" />
 
@@ -115,6 +115,42 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 </picture>
 
 </div>
+
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
+
+#### Recent activity / Activité récente
+
+<!-- RECENT_ACTIVITY_START -->
+| Date | Activity |
+|:--|:--|
+| 2026-09-16 | Pushed to [laforetbrut/v-phone-fivem](https://github.com/laforetbrut/v-phone-fivem) |
+| 2026-09-16 | Released [laforetbrut/v-phone-fivem](https://github.com/laforetbrut/v-phone-fivem) `v1.7.3` |
+| 2026-09-16 | Released [laforetbrut/v-phone-fivem](https://github.com/laforetbrut/v-phone-fivem) `v1.7.2` |
+| 2026-09-16 | Pushed to [Team-Arcadia/Arcadia-V2-Client](https://github.com/Team-Arcadia/Arcadia-V2-Client) |
+| 2026-09-15 | Released [laforetbrut/v-park-fivem](https://github.com/laforetbrut/v-park-fivem) `v1.2.4` |
+| 2026-09-15 | Pushed to [laforetbrut/v-park-fivem](https://github.com/laforetbrut/v-park-fivem) |
+<!-- RECENT_ACTIVITY_END -->
+
+</td>
+<td valign="top" width="50%">
+
+#### Latest releases / Dernières versions
+
+<!-- RELEASES_START -->
+| Date | Repository | Version |
+|:--|:--|:--|
+| 2026-09-16 | [laforetbrut/v-phone-fivem](https://github.com/laforetbrut/v-phone-fivem) | [`v1.7.3`](https://github.com/laforetbrut/v-phone-fivem/releases/tag/v1.7.3) |
+| 2026-09-15 | [laforetbrut/v-park-fivem](https://github.com/laforetbrut/v-park-fivem) | [`v1.2.4`](https://github.com/laforetbrut/v-park-fivem/releases/tag/v1.2.4) |
+| 2026-08-07 | [laforetbrut/v-sport-fivem](https://github.com/laforetbrut/v-sport-fivem) | [`v1.0.3`](https://github.com/laforetbrut/v-sport-fivem/releases/tag/v1.0.3) |
+| 2026-08-05 | [Team-Arcadia/arcadia-patch-create](https://github.com/Team-Arcadia/arcadia-patch-create) | [`1.4.3`](https://github.com/Team-Arcadia/arcadia-patch-create/releases/tag/1.4.3) |
+| 2026-08-04 | [laforetbrut/v-hud-fivem](https://github.com/laforetbrut/v-hud-fivem) | [`v1.0.1`](https://github.com/laforetbrut/v-hud-fivem/releases/tag/v1.0.1) |
+<!-- RELEASES_END -->
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -145,12 +181,16 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 <div align="center">
 
 <!-- QUOTE_START -->
-> *"Mine your own business."*
-> **Minecraft community**, community pun
+> *"I'd much rather lose with style than win without."*
+> **Markus "Notch" Persson**, creator of Minecraft
 
-> *"Occupe-toi de tes propres affaires de minage."*
-> **Minecraft community**, jeu de mots de la communauté
+> *"Je préfère perdre avec style que gagner sans."*
+> **Markus "Notch" Persson**, créateur de Minecraft
 <!-- QUOTE_END -->
+
+<!-- UPDATED_START -->
+<sub>Last updated / Dernière mise à jour : 2026-09-17 05:58 UTC</sub>
+<!-- UPDATED_END -->
 
 </div>
 
