@@ -74,9 +74,9 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 <sub>CurseForge downloads, refreshed every 6 hours / Téléchargements CurseForge, actualisés toutes les 6 heures</sub>
 
 <!-- CURSEFORGE_START -->
-![Total Downloads](https://img.shields.io/badge/Total%20Downloads-542.0k-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white) ![Projects](https://img.shields.io/badge/Projects-7-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)
+![Total Downloads](https://img.shields.io/badge/Total%20Downloads-542.3k-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white) ![Projects](https://img.shields.io/badge/Projects-7-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)
 
-[![Polymorphic Refined Storage](https://img.shields.io/badge/Polymorphic%20Refined%20Storage-245.8k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/rs-polymorph)
+[![Polymorphic Refined Storage](https://img.shields.io/badge/Polymorphic%20Refined%20Storage-246.0k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/rs-polymorph)
 [![Arcadia: Echoes of Power V2](https://img.shields.io/badge/Arcadia%3A%20Echoes%20of%20Power%20V2-112.9k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/modpacks/arcadia-echoes-of-power-v2)
 [![Arcadia Admin Pannel](https://img.shields.io/badge/Arcadia%20Admin%20Pannel-57.6k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-admin-pannel)
 [![Arcadia LootBox](https://img.shields.io/badge/Arcadia%20LootBox-56.6k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-lootbox)
@@ -92,9 +92,9 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 <div align="center">
 
 <!-- LANGUAGES_START -->
-![Lua](https://img.shields.io/badge/Lua-37.27%25-FF7B29?style=flat-square&labelColor=0d1117&logo=lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-33.09%25-30363d?style=flat-square&labelColor=0d1117&logo=javascript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-17.15%25-30363d?style=flat-square&labelColor=0d1117&logo=openjdk&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-37.30%25-FF7B29?style=flat-square&labelColor=0d1117&logo=lua&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-33.08%25-30363d?style=flat-square&labelColor=0d1117&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-17.14%25-30363d?style=flat-square&labelColor=0d1117&logo=openjdk&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-6.76%25-30363d?style=flat-square&labelColor=0d1117&logo=css&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-4.12%25-30363d?style=flat-square&labelColor=0d1117&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-0.96%25-30363d?style=flat-square&labelColor=0d1117&logo=html5&logoColor=white)
@@ -125,12 +125,12 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 <!-- RECENT_ACTIVITY_START -->
 | Date | Activity |
 |:--|:--|
-| 2026-09-17 | Released [laforetbrut/v-phone-fivem](https://github.com/laforetbrut/v-phone-fivem) `v1.7.4` |
-| 2026-09-16 | Pushed to [laforetbrut/v-phone-fivem](https://github.com/laforetbrut/v-phone-fivem) |
-| 2026-09-16 | Released [laforetbrut/v-phone-fivem](https://github.com/laforetbrut/v-phone-fivem) `v1.7.3` |
-| 2026-09-16 | Released [laforetbrut/v-phone-fivem](https://github.com/laforetbrut/v-phone-fivem) `v1.7.2` |
-| 2026-09-16 | Pushed to [Team-Arcadia/Arcadia-V2-Client](https://github.com/Team-Arcadia/Arcadia-V2-Client) |
-| 2026-09-15 | Released [laforetbrut/v-park-fivem](https://github.com/laforetbrut/v-park-fivem) `v1.2.4` |
+| 2026-09-17 | Released [laforetbrut/v-park-fivem](https://github.com/laforetbrut/v-park-fivem) `v1.2.7` |
+| 2026-09-17 | Pushed to [laforetbrut/v-park-fivem](https://github.com/laforetbrut/v-park-fivem) |
+| 2026-09-17 | Released [laforetbrut/v-park-fivem](https://github.com/laforetbrut/v-park-fivem) `v1.2.6` |
+| 2026-09-17 | Released [laforetbrut/v-park-fivem](https://github.com/laforetbrut/v-park-fivem) `v1.2.5` |
+| 2026-09-17 | Released [laforetbrut/v-phone-fivem](https://github.com/laforetbrut/v-phone-fivem) `v1.7.5` |
+| 2026-09-17 | Pushed to [laforetbrut/v-phone-fivem](https://github.com/laforetbrut/v-phone-fivem) |
 <!-- RECENT_ACTIVITY_END -->
 
 </td>
@@ -141,8 +141,8 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 <!-- RELEASES_START -->
 | Date | Repository | Version |
 |:--|:--|:--|
-| 2026-09-17 | [laforetbrut/v-phone-fivem](https://github.com/laforetbrut/v-phone-fivem) | [`v1.7.4`](https://github.com/laforetbrut/v-phone-fivem/releases/tag/v1.7.4) |
-| 2026-09-15 | [laforetbrut/v-park-fivem](https://github.com/laforetbrut/v-park-fivem) | [`v1.2.4`](https://github.com/laforetbrut/v-park-fivem/releases/tag/v1.2.4) |
+| 2026-09-17 | [laforetbrut/v-park-fivem](https://github.com/laforetbrut/v-park-fivem) | [`v1.2.7`](https://github.com/laforetbrut/v-park-fivem/releases/tag/v1.2.7) |
+| 2026-09-17 | [laforetbrut/v-phone-fivem](https://github.com/laforetbrut/v-phone-fivem) | [`v1.7.5`](https://github.com/laforetbrut/v-phone-fivem/releases/tag/v1.7.5) |
 | 2026-08-07 | [laforetbrut/v-sport-fivem](https://github.com/laforetbrut/v-sport-fivem) | [`v1.0.3`](https://github.com/laforetbrut/v-sport-fivem/releases/tag/v1.0.3) |
 | 2026-08-05 | [Team-Arcadia/arcadia-patch-create](https://github.com/Team-Arcadia/arcadia-patch-create) | [`1.4.3`](https://github.com/Team-Arcadia/arcadia-patch-create/releases/tag/1.4.3) |
 | 2026-08-04 | [laforetbrut/v-hud-fivem](https://github.com/laforetbrut/v-hud-fivem) | [`v1.0.1`](https://github.com/laforetbrut/v-hud-fivem/releases/tag/v1.0.1) |
@@ -181,15 +181,15 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 <div align="center">
 
 <!-- QUOTE_START -->
-> *"Sometimes I see the dream wake the dreamer."*
-> **Julian Gough**, Minecraft End Poem
+> *"It's just a game. But the worlds are real."*
+> **Minecraft community**, community saying
 
-> *"Parfois je vois le rêve éveiller le rêveur."*
-> **Julian Gough**, Poème de fin de Minecraft
+> *"Ce n'est qu'un jeu. Mais les mondes sont réels."*
+> **Minecraft community**, dicton de la communauté
 <!-- QUOTE_END -->
 
 <!-- UPDATED_START -->
-<sub>Last updated / Dernière mise à jour : 2026-09-17 17:02 UTC</sub>
+<sub>Last updated / Dernière mise à jour : 2026-09-17 21:24 UTC</sub>
 <!-- UPDATED_END -->
 
 </div>
