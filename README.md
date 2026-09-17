@@ -93,10 +93,10 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 
 <!-- LANGUAGES_START -->
 ![Lua](https://img.shields.io/badge/Lua-37.27%25-FF7B29?style=flat-square&labelColor=0d1117&logo=lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-33.10%25-30363d?style=flat-square&labelColor=0d1117&logo=javascript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-17.16%25-30363d?style=flat-square&labelColor=0d1117&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-33.09%25-30363d?style=flat-square&labelColor=0d1117&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-17.15%25-30363d?style=flat-square&labelColor=0d1117&logo=openjdk&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-6.76%25-30363d?style=flat-square&labelColor=0d1117&logo=css&logoColor=white)
-![Python](https://img.shields.io/badge/Python-4.10%25-30363d?style=flat-square&labelColor=0d1117&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4.12%25-30363d?style=flat-square&labelColor=0d1117&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-0.96%25-30363d?style=flat-square&labelColor=0d1117&logo=html5&logoColor=white)
 <!-- LANGUAGES_END -->
 
@@ -189,7 +189,7 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 <!-- QUOTE_END -->
 
 <!-- UPDATED_START -->
-<sub>Last updated / Dernière mise à jour : 2026-09-17 05:58 UTC</sub>
+<sub>Last updated / Dernière mise à jour : 2026-09-17 05:59 UTC</sub>
 <!-- UPDATED_END -->
 
 </div>
