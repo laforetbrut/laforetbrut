@@ -29,7 +29,7 @@
 
 ## FiveM Resources / Ressources FiveM
 
-<sub>Open-source GTA V roleplay scripts for qb-core, qbx_core, ESX and ox_core / Scripts roleplay GTA V open source, compatibles avec tous les frameworks</sub>
+<p align="center"><sub>Open-source GTA V roleplay scripts for qb-core, qbx_core, ESX and ox_core / Scripts roleplay GTA V open source, compatibles avec tous les frameworks</sub></p>
 
 <table>
 <tr>
@@ -144,9 +144,9 @@
 
 ## CurseForge
 
-<sub>Download stats, updated daily / Statistiques de téléchargement, mises à jour chaque jour · <a href="https://www.curseforge.com/members/vyrriox/projects">profile</a></sub>
-
 <div align="center">
+
+<sub>Download stats, updated daily / Statistiques de téléchargement, mises à jour chaque jour · <a href="https://www.curseforge.com/members/vyrriox/projects">profile</a></sub>
 
 <!-- CURSEFORGE_START -->
 ![Total Downloads](https://img.shields.io/badge/Total%20Downloads-541.6k-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white) ![Projects](https://img.shields.io/badge/Projects-7-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)
