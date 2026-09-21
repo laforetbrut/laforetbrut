@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="850" height="190" viewBox="0 0 850 190" font-family="Segoe UI, Helvetica, Arial, sans-serif">
 <style>.ring{stroke-dasharray:252;stroke-dashoffset:252;animation:draw 1.2s ease-out forwards}@keyframes draw{to{stroke-dashoffset:0}}</style>
 <rect x="0.5" y="0.5" width="849" height="189" rx="10" fill="#0d1117" stroke="#30363d"/>
-<text x="141.66666666666666" y="92" text-anchor="middle" fill="#e6edf3" font-size="30" font-weight="700">2,512</text><text x="141.66666666666666" y="124" text-anchor="middle" fill="#8b949e" font-size="14">Contributions, last 12 months</text>
+<text x="141.66666666666666" y="92" text-anchor="middle" fill="#e6edf3" font-size="30" font-weight="700">2,861</text><text x="141.66666666666666" y="124" text-anchor="middle" fill="#8b949e" font-size="14">Contributions, last 12 months</text>
 <line x1="283.3" y1="35" x2="283.3" y2="155" stroke="#30363d"/>
 <circle cx="425.0" cy="80" r="40" fill="none" stroke="#30363d" stroke-width="5"/>
 <circle class="ring" cx="425.0" cy="80" r="40" fill="none" stroke="#FF7B29" stroke-width="5" transform="rotate(-90 425.0 80)"/>
-<text x="425.0" y="91" text-anchor="middle" fill="#e6edf3" font-size="30" font-weight="700">13</text>
+<text x="425.0" y="91" text-anchor="middle" fill="#e6edf3" font-size="30" font-weight="700">14</text>
 <text x="425.0" y="146" text-anchor="middle" fill="#FF7B29" font-size="15" font-weight="600">Current streak</text>
 <text x="425.0" y="166" text-anchor="middle" fill="#8b949e" font-size="12">since Sep 8</text>
 <line x1="566.7" y1="35" x2="566.7" y2="155" stroke="#30363d"/>
