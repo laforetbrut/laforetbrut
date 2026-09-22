@@ -74,11 +74,11 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 <sub>CurseForge downloads, refreshed every 6 hours / Téléchargements CurseForge, actualisés toutes les 6 heures</sub>
 
 <!-- CURSEFORGE_START -->
-![Total Downloads](https://img.shields.io/badge/Total%20Downloads-549.0k-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white) ![Projects](https://img.shields.io/badge/Projects-7-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)
+![Total Downloads](https://img.shields.io/badge/Total%20Downloads-549.5k-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white) ![Projects](https://img.shields.io/badge/Projects-7-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)
 
-[![Polymorphic Refined Storage](https://img.shields.io/badge/Polymorphic%20Refined%20Storage-249.7k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/rs-polymorph)
+[![Polymorphic Refined Storage](https://img.shields.io/badge/Polymorphic%20Refined%20Storage-250.0k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/rs-polymorph)
 [![Arcadia: Echoes of Power V2](https://img.shields.io/badge/Arcadia%3A%20Echoes%20of%20Power%20V2-113.4k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/modpacks/arcadia-echoes-of-power-v2)
-[![Arcadia Admin Pannel](https://img.shields.io/badge/Arcadia%20Admin%20Pannel-58.4k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-admin-pannel)
+[![Arcadia Admin Pannel](https://img.shields.io/badge/Arcadia%20Admin%20Pannel-58.5k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-admin-pannel)
 [![Arcadia LootBox](https://img.shields.io/badge/Arcadia%20LootBox-56.9k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-lootbox)
 [![Arcadia Spawn Dimension](https://img.shields.io/badge/Arcadia%20Spawn%20Dimension-55.7k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-spawn-dimension)
 <!-- CURSEFORGE_END -->
@@ -92,9 +92,9 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 <div align="center">
 
 <!-- LANGUAGES_START -->
-![Lua](https://img.shields.io/badge/Lua-37.27%25-FF7B29?style=flat-square&labelColor=0d1117&logo=lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-33.10%25-30363d?style=flat-square&labelColor=0d1117&logo=javascript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-17.11%25-30363d?style=flat-square&labelColor=0d1117&logo=openjdk&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-37.26%25-FF7B29?style=flat-square&labelColor=0d1117&logo=lua&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-33.12%25-30363d?style=flat-square&labelColor=0d1117&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-17.10%25-30363d?style=flat-square&labelColor=0d1117&logo=openjdk&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-6.74%25-30363d?style=flat-square&labelColor=0d1117&logo=css&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-4.18%25-30363d?style=flat-square&labelColor=0d1117&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-0.96%25-30363d?style=flat-square&labelColor=0d1117&logo=html5&logoColor=white)
@@ -125,7 +125,7 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 <!-- RECENT_ACTIVITY_START -->
 | Date | Activity |
 |:--|:--|
-| 2026-09-21 | Pushed to [Team-Arcadia/Arcadia-V2-Client](https://github.com/Team-Arcadia/Arcadia-V2-Client) |
+| 2026-09-22 | Pushed to [Team-Arcadia/Arcadia-V2-Client](https://github.com/Team-Arcadia/Arcadia-V2-Client) |
 | 2026-09-21 | Issue on [laforetbrut/v-phone-fivem](https://github.com/laforetbrut/v-phone-fivem) |
 | 2026-09-21 | Pushed to [Team-Arcadia/PlayerSync](https://github.com/Team-Arcadia/PlayerSync) |
 | 2026-09-20 | Released [laforetbrut/v-phone-fivem](https://github.com/laforetbrut/v-phone-fivem) `v1.7.8` |
@@ -181,15 +181,15 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 <div align="center">
 
 <!-- QUOTE_START -->
-> *"I'd much rather lose with style than win without."*
-> **Markus "Notch" Persson**, creator of Minecraft
+> *"Block by block, anything is possible."*
+> **Mojang**, Minecraft motto
 
-> *"Je préfère perdre avec style que gagner sans."*
-> **Markus "Notch" Persson**, créateur de Minecraft
+> *"Bloc par bloc, tout est possible."*
+> **Mojang**, devise Minecraft
 <!-- QUOTE_END -->
 
 <!-- UPDATED_START -->
-<sub>Last updated / Dernière mise à jour : 2026-09-22 05:01 UTC</sub>
+<sub>Last updated / Dernière mise à jour : 2026-09-22 11:42 UTC</sub>
 <!-- UPDATED_END -->
 
 </div>
