@@ -74,11 +74,11 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 <sub>CurseForge downloads, refreshed every 6 hours / Téléchargements CurseForge, actualisés toutes les 6 heures</sub>
 
 <!-- CURSEFORGE_START -->
-![Total Downloads](https://img.shields.io/badge/Total%20Downloads-551.5k-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white) ![Projects](https://img.shields.io/badge/Projects-7-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)
+![Total Downloads](https://img.shields.io/badge/Total%20Downloads-553.2k-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white) ![Projects](https://img.shields.io/badge/Projects-7-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)
 
-[![Polymorphic Refined Storage](https://img.shields.io/badge/Polymorphic%20Refined%20Storage-251.9k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/rs-polymorph)
+[![Polymorphic Refined Storage](https://img.shields.io/badge/Polymorphic%20Refined%20Storage-253.4k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/rs-polymorph)
 [![Arcadia: Echoes of Power V2](https://img.shields.io/badge/Arcadia%3A%20Echoes%20of%20Power%20V2-113.5k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/modpacks/arcadia-echoes-of-power-v2)
-[![Arcadia Admin Pannel](https://img.shields.io/badge/Arcadia%20Admin%20Pannel-58.5k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-admin-pannel)
+[![Arcadia Admin Pannel](https://img.shields.io/badge/Arcadia%20Admin%20Pannel-58.6k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-admin-pannel)
 [![Arcadia LootBox](https://img.shields.io/badge/Arcadia%20LootBox-56.9k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-lootbox)
 [![Arcadia Spawn Dimension](https://img.shields.io/badge/Arcadia%20Spawn%20Dimension-55.8k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-spawn-dimension)
 <!-- CURSEFORGE_END -->
@@ -126,11 +126,11 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 | Date | Activity |
 |:--|:--|
 | 2026-09-22 | Pushed to [Team-Arcadia/Arcadia-V2-Client](https://github.com/Team-Arcadia/Arcadia-V2-Client) |
+| 2026-09-22 | Pull request on [Team-Arcadia/arcadia-patch-create](https://github.com/Team-Arcadia/arcadia-patch-create) |
 | 2026-09-21 | Issue on [laforetbrut/v-phone-fivem](https://github.com/laforetbrut/v-phone-fivem) |
 | 2026-09-21 | Pushed to [Team-Arcadia/PlayerSync](https://github.com/Team-Arcadia/PlayerSync) |
 | 2026-09-20 | Released [laforetbrut/v-phone-fivem](https://github.com/laforetbrut/v-phone-fivem) `v1.7.8` |
 | 2026-09-20 | Pushed to [laforetbrut/v-phone-fivem](https://github.com/laforetbrut/v-phone-fivem) |
-| 2026-09-20 | Pushed to [laforetbrut/v-park-fivem](https://github.com/laforetbrut/v-park-fivem) |
 <!-- RECENT_ACTIVITY_END -->
 
 </td>
@@ -181,15 +181,15 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 <div align="center">
 
 <!-- QUOTE_START -->
-> *"Minecraft is what it is because I kept being passionate about it."*
-> **Markus "Notch" Persson**, creator of Minecraft
+> *"Mine your own business."*
+> **Minecraft community**, community pun
 
-> *"Minecraft est ce qu'il est parce que je suis resté passionné par lui."*
-> **Markus "Notch" Persson**, créateur de Minecraft
+> *"Occupe-toi de tes propres affaires de minage."*
+> **Minecraft community**, jeu de mots de la communauté
 <!-- QUOTE_END -->
 
 <!-- UPDATED_START -->
-<sub>Last updated / Dernière mise à jour : 2026-09-22 16:59 UTC</sub>
+<sub>Last updated / Dernière mise à jour : 2026-09-22 21:21 UTC</sub>
 <!-- UPDATED_END -->
 
 </div>
