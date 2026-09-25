@@ -74,12 +74,12 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 <sub>CurseForge downloads, refreshed every 6 hours / Téléchargements CurseForge, actualisés toutes les 6 heures</sub>
 
 <!-- CURSEFORGE_START -->
-![Total Downloads](https://img.shields.io/badge/Total%20Downloads-567.3k-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white) ![Projects](https://img.shields.io/badge/Projects-7-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)
+![Total Downloads](https://img.shields.io/badge/Total%20Downloads-568.4k-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white) ![Projects](https://img.shields.io/badge/Projects-7-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)
 
-[![Polymorphic Refined Storage](https://img.shields.io/badge/Polymorphic%20Refined%20Storage-266.0k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/rs-polymorph)
-[![Arcadia: Echoes of Power V2](https://img.shields.io/badge/Arcadia%3A%20Echoes%20of%20Power%20V2-113.7k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/modpacks/arcadia-echoes-of-power-v2)
+[![Polymorphic Refined Storage](https://img.shields.io/badge/Polymorphic%20Refined%20Storage-267.1k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/rs-polymorph)
+[![Arcadia: Echoes of Power V2](https://img.shields.io/badge/Arcadia%3A%20Echoes%20of%20Power%20V2-113.8k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/modpacks/arcadia-echoes-of-power-v2)
 [![Arcadia Admin Pannel](https://img.shields.io/badge/Arcadia%20Admin%20Pannel-58.9k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-admin-pannel)
-[![Arcadia LootBox](https://img.shields.io/badge/Arcadia%20LootBox-57.0k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-lootbox)
+[![Arcadia LootBox](https://img.shields.io/badge/Arcadia%20LootBox-57.1k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-lootbox)
 [![Arcadia Spawn Dimension](https://img.shields.io/badge/Arcadia%20Spawn%20Dimension-56.2k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-spawn-dimension)
 <!-- CURSEFORGE_END -->
 
@@ -92,7 +92,7 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 <div align="center">
 
 <!-- LANGUAGES_START -->
-![Lua](https://img.shields.io/badge/Lua-37.26%25-FF7B29?style=flat-square&labelColor=0d1117&logo=lua&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-37.27%25-FF7B29?style=flat-square&labelColor=0d1117&logo=lua&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-33.09%25-30363d?style=flat-square&labelColor=0d1117&logo=javascript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-17.04%25-30363d?style=flat-square&labelColor=0d1117&logo=openjdk&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-6.74%25-30363d?style=flat-square&labelColor=0d1117&logo=css&logoColor=white)
@@ -125,11 +125,11 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 <!-- RECENT_ACTIVITY_START -->
 | Date | Activity |
 |:--|:--|
+| 2026-09-25 | Pushed to [laforetbrut/v-phone-fivem](https://github.com/laforetbrut/v-phone-fivem) |
 | 2026-09-24 | Pushed to [Team-Arcadia/Arcadia-V2-Client](https://github.com/Team-Arcadia/Arcadia-V2-Client) |
 | 2026-09-24 | Issue on [tr7zw/EntityCulling](https://github.com/tr7zw/EntityCulling) |
 | 2026-09-24 | Issue on [george8188625/Create-Diesel-Generators](https://github.com/george8188625/Create-Diesel-Generators) |
 | 2026-09-23 | Released [laforetbrut/v-phone-fivem](https://github.com/laforetbrut/v-phone-fivem) `v1.7.12` |
-| 2026-09-23 | Pushed to [laforetbrut/v-phone-fivem](https://github.com/laforetbrut/v-phone-fivem) |
 | 2026-09-23 | Released [laforetbrut/v-park-fivem](https://github.com/laforetbrut/v-park-fivem) `v1.2.12` |
 <!-- RECENT_ACTIVITY_END -->
 
@@ -181,15 +181,15 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 <div align="center">
 
 <!-- QUOTE_START -->
-> *"The world is only as limited as your imagination."*
-> **Mojang**, Minecraft tagline
+> *"The world is not the only one. There are many worlds, and many players."*
+> **Julian Gough**, Minecraft End Poem
 
-> *"Le monde n'est limité que par ton imagination."*
-> **Mojang**, slogan Minecraft
+> *"Le monde n'est pas le seul. Il y a beaucoup de mondes, et beaucoup de joueurs."*
+> **Julian Gough**, Poème de fin de Minecraft
 <!-- QUOTE_END -->
 
 <!-- UPDATED_START -->
-<sub>Last updated / Dernière mise à jour : 2026-09-25 05:00 UTC</sub>
+<sub>Last updated / Dernière mise à jour : 2026-09-25 11:53 UTC</sub>
 <!-- UPDATED_END -->
 
 </div>
