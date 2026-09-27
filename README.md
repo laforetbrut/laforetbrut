@@ -74,11 +74,11 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 <sub>CurseForge downloads, refreshed every 6 hours / Téléchargements CurseForge, actualisés toutes les 6 heures</sub>
 
 <!-- CURSEFORGE_START -->
-![Total Downloads](https://img.shields.io/badge/Total%20Downloads-584.4k-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white) ![Projects](https://img.shields.io/badge/Projects-7-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)
+![Total Downloads](https://img.shields.io/badge/Total%20Downloads-586.6k-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white) ![Projects](https://img.shields.io/badge/Projects-7-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)
 
-[![Polymorphic Refined Storage](https://img.shields.io/badge/Polymorphic%20Refined%20Storage-281.3k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/rs-polymorph)
+[![Polymorphic Refined Storage](https://img.shields.io/badge/Polymorphic%20Refined%20Storage-283.3k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/rs-polymorph)
 [![Arcadia: Echoes of Power V2](https://img.shields.io/badge/Arcadia%3A%20Echoes%20of%20Power%20V2-114.1k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/modpacks/arcadia-echoes-of-power-v2)
-[![Arcadia Admin Pannel](https://img.shields.io/badge/Arcadia%20Admin%20Pannel-59.4k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-admin-pannel)
+[![Arcadia Admin Pannel](https://img.shields.io/badge/Arcadia%20Admin%20Pannel-59.5k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-admin-pannel)
 [![Arcadia LootBox](https://img.shields.io/badge/Arcadia%20LootBox-57.3k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-lootbox)
 [![Arcadia Spawn Dimension](https://img.shields.io/badge/Arcadia%20Spawn%20Dimension-56.7k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-spawn-dimension)
 <!-- CURSEFORGE_END -->
@@ -92,12 +92,12 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 <div align="center">
 
 <!-- LANGUAGES_START -->
-![Lua](https://img.shields.io/badge/Lua-37.29%25-FF7B29?style=flat-square&labelColor=0d1117&logo=lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-33.08%25-30363d?style=flat-square&labelColor=0d1117&logo=javascript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-17.03%25-30363d?style=flat-square&labelColor=0d1117&logo=openjdk&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-6.75%25-30363d?style=flat-square&labelColor=0d1117&logo=css&logoColor=white)
-![Python](https://img.shields.io/badge/Python-4.26%25-30363d?style=flat-square&labelColor=0d1117&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-0.96%25-30363d?style=flat-square&labelColor=0d1117&logo=html5&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-37.11%25-FF7B29?style=flat-square&labelColor=0d1117&logo=lua&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-32.92%25-30363d?style=flat-square&labelColor=0d1117&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-17.42%25-30363d?style=flat-square&labelColor=0d1117&logo=openjdk&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-6.72%25-30363d?style=flat-square&labelColor=0d1117&logo=css&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4.24%25-30363d?style=flat-square&labelColor=0d1117&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-0.95%25-30363d?style=flat-square&labelColor=0d1117&logo=html5&logoColor=white)
 <!-- LANGUAGES_END -->
 
 <sub>Languages across public personal and Team Arcadia repos / Langages sur tous les repos publics</sub>
@@ -125,12 +125,12 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 <!-- RECENT_ACTIVITY_START -->
 | Date | Activity |
 |:--|:--|
+| 2026-09-27 | Pushed to [Team-Arcadia/Arcadia-Admin-Pannel](https://github.com/Team-Arcadia/Arcadia-Admin-Pannel) |
 | 2026-09-25 | Released [laforetbrut/v-phone-fivem](https://github.com/laforetbrut/v-phone-fivem) `v1.7.13` |
 | 2026-09-25 | Pushed to [laforetbrut/v-phone-fivem](https://github.com/laforetbrut/v-phone-fivem) |
 | 2026-09-25 | Released [laforetbrut/v-hud-fivem](https://github.com/laforetbrut/v-hud-fivem) `v1.0.2` |
 | 2026-09-25 | Pushed to [laforetbrut/v-hud-fivem](https://github.com/laforetbrut/v-hud-fivem) |
 | 2026-09-24 | Pushed to [Team-Arcadia/Arcadia-V2-Client](https://github.com/Team-Arcadia/Arcadia-V2-Client) |
-| 2026-09-24 | Issue on [tr7zw/EntityCulling](https://github.com/tr7zw/EntityCulling) |
 <!-- RECENT_ACTIVITY_END -->
 
 </td>
@@ -181,15 +181,15 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 <div align="center">
 
 <!-- QUOTE_START -->
-> *"And the player was a new story, never told before, written in letters of DNA."*
-> **Julian Gough**, Minecraft End Poem
+> *"Don't take life too seriously. Even if you do, you won't make it out alive."*
+> **Markus "Notch" Persson**, creator of Minecraft
 
-> *"Et le joueur était une nouvelle histoire, jamais racontée, écrite en lettres d'ADN."*
-> **Julian Gough**, Poème de fin de Minecraft
+> *"Ne prends pas la vie trop au sérieux. Même si tu le fais, tu n'en sortiras pas vivant."*
+> **Markus "Notch" Persson**, créateur de Minecraft
 <!-- QUOTE_END -->
 
 <!-- UPDATED_START -->
-<sub>Last updated / Dernière mise à jour : 2026-09-27 12:06 UTC</sub>
+<sub>Last updated / Dernière mise à jour : 2026-09-27 16:59 UTC</sub>
 <!-- UPDATED_END -->
 
 </div>
