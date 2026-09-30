@@ -74,12 +74,12 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 <sub>CurseForge downloads, refreshed every 6 hours / Téléchargements CurseForge, actualisés toutes les 6 heures</sub>
 
 <!-- CURSEFORGE_START -->
-![Total Downloads](https://img.shields.io/badge/Total%20Downloads-598.9k-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white) ![Projects](https://img.shields.io/badge/Projects-7-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)
+![Total Downloads](https://img.shields.io/badge/Total%20Downloads-599.3k-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white) ![Projects](https://img.shields.io/badge/Projects-7-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)
 
-[![Polymorphic Refined Storage](https://img.shields.io/badge/Polymorphic%20Refined%20Storage-294.0k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/rs-polymorph)
+[![Polymorphic Refined Storage](https://img.shields.io/badge/Polymorphic%20Refined%20Storage-294.3k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/rs-polymorph)
 [![Arcadia: Echoes of Power V2](https://img.shields.io/badge/Arcadia%3A%20Echoes%20of%20Power%20V2-114.4k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/modpacks/arcadia-echoes-of-power-v2)
-[![Arcadia Admin Pannel](https://img.shields.io/badge/Arcadia%20Admin%20Pannel-59.9k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-admin-pannel)
-[![Arcadia LootBox](https://img.shields.io/badge/Arcadia%20LootBox-57.4k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-lootbox)
+[![Arcadia Admin Pannel](https://img.shields.io/badge/Arcadia%20Admin%20Pannel-60.0k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-admin-pannel)
+[![Arcadia LootBox](https://img.shields.io/badge/Arcadia%20LootBox-57.5k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-lootbox)
 [![Arcadia Spawn Dimension](https://img.shields.io/badge/Arcadia%20Spawn%20Dimension-57.1k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-spawn-dimension)
 <!-- CURSEFORGE_END -->
 
@@ -92,12 +92,12 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 <div align="center">
 
 <!-- LANGUAGES_START -->
-![Lua](https://img.shields.io/badge/Lua-36.06%25-FF7B29?style=flat-square&labelColor=0d1117&logo=lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-32.06%25-30363d?style=flat-square&labelColor=0d1117&logo=javascript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-19.53%25-30363d?style=flat-square&labelColor=0d1117&logo=openjdk&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-6.53%25-30363d?style=flat-square&labelColor=0d1117&logo=css&logoColor=white)
-![Python](https://img.shields.io/badge/Python-4.27%25-30363d?style=flat-square&labelColor=0d1117&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-0.93%25-30363d?style=flat-square&labelColor=0d1117&logo=html5&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-33.09%25-FF7B29?style=flat-square&labelColor=0d1117&logo=lua&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-29.41%25-30363d?style=flat-square&labelColor=0d1117&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-25.80%25-30363d?style=flat-square&labelColor=0d1117&logo=openjdk&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-5.99%25-30363d?style=flat-square&labelColor=0d1117&logo=css&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4.28%25-30363d?style=flat-square&labelColor=0d1117&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-0.85%25-30363d?style=flat-square&labelColor=0d1117&logo=html5&logoColor=white)
 <!-- LANGUAGES_END -->
 
 <sub>Languages across public personal and Team Arcadia repos / Langages sur tous les repos publics</sub>
@@ -126,11 +126,11 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 | Date | Activity |
 |:--|:--|
 | 2026-09-29 | Pushed to [Team-Arcadia/Arcadia-V2-Client](https://github.com/Team-Arcadia/Arcadia-V2-Client) |
-| 2026-09-29 | Pushed to [Team-Arcadia/PlayerSync](https://github.com/Team-Arcadia/PlayerSync) |
-| 2026-09-27 | Pushed to [Team-Arcadia/Arcadia-Admin-Pannel](https://github.com/Team-Arcadia/Arcadia-Admin-Pannel) |
-| 2026-09-26 | Pull request on [Team-Arcadia/Arcadia-V2-Client](https://github.com/Team-Arcadia/Arcadia-V2-Client) |
-| 2026-09-25 | Released [laforetbrut/v-phone-fivem](https://github.com/laforetbrut/v-phone-fivem) `v1.7.13` |
-| 2026-09-25 | Pushed to [laforetbrut/v-phone-fivem](https://github.com/laforetbrut/v-phone-fivem) |
+| 2026-09-29 | Pushed to [laforetbrut/are-you-sure](https://github.com/laforetbrut/are-you-sure) |
+| 2026-09-29 | Released [laforetbrut/are-you-sure](https://github.com/laforetbrut/are-you-sure) `v1.0.0` |
+| 2026-09-29 | Released [laforetbrut/are-you-sure](https://github.com/laforetbrut/are-you-sure) `v1.0.0-forge-26.1.2` |
+| 2026-09-29 | Released [laforetbrut/are-you-sure](https://github.com/laforetbrut/are-you-sure) `v1.0.0-neoforge-26.1.2` |
+| 2026-09-29 | Released [laforetbrut/are-you-sure](https://github.com/laforetbrut/are-you-sure) `v1.0.0-forge-1.21.1` |
 <!-- RECENT_ACTIVITY_END -->
 
 </td>
@@ -141,11 +141,11 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 <!-- RELEASES_START -->
 | Date | Repository | Version |
 |:--|:--|:--|
+| 2026-09-29 | [laforetbrut/are-you-sure](https://github.com/laforetbrut/are-you-sure) | [`v1.0.0`](https://github.com/laforetbrut/are-you-sure/releases/tag/v1.0.0) |
 | 2026-09-29 | [Team-Arcadia/Arcadia-Creative-Admin](https://github.com/Team-Arcadia/Arcadia-Creative-Admin) | [`v2.0.0`](https://github.com/Team-Arcadia/Arcadia-Creative-Admin/releases/tag/v2.0.0) |
 | 2026-09-29 | [Team-Arcadia/Arcadia-Better-Creative](https://github.com/Team-Arcadia/Arcadia-Better-Creative) | [`v2.0.0`](https://github.com/Team-Arcadia/Arcadia-Better-Creative/releases/tag/v2.0.0) |
 | 2026-09-25 | [laforetbrut/v-phone-fivem](https://github.com/laforetbrut/v-phone-fivem) | [`v1.7.13`](https://github.com/laforetbrut/v-phone-fivem/releases/tag/v1.7.13) |
 | 2026-09-25 | [laforetbrut/v-hud-fivem](https://github.com/laforetbrut/v-hud-fivem) | [`v1.0.2`](https://github.com/laforetbrut/v-hud-fivem/releases/tag/v1.0.2) |
-| 2026-09-23 | [laforetbrut/v-park-fivem](https://github.com/laforetbrut/v-park-fivem) | [`v1.2.12`](https://github.com/laforetbrut/v-park-fivem/releases/tag/v1.2.12) |
 <!-- RELEASES_END -->
 
 </td>
@@ -181,15 +181,15 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 <div align="center">
 
 <!-- QUOTE_START -->
-> *"The universe said I love you because you are love."*
-> **Julian Gough**, Minecraft End Poem
+> *"Block by block, anything is possible."*
+> **Mojang**, Minecraft motto
 
-> *"L'univers a dit je t'aime parce que tu es amour."*
-> **Julian Gough**, Poème de fin de Minecraft
+> *"Bloc par bloc, tout est possible."*
+> **Mojang**, devise Minecraft
 <!-- QUOTE_END -->
 
 <!-- UPDATED_START -->
-<sub>Last updated / Dernière mise à jour : 2026-09-29 22:18 UTC</sub>
+<sub>Last updated / Dernière mise à jour : 2026-09-30 05:36 UTC</sub>
 <!-- UPDATED_END -->
 
 </div>
