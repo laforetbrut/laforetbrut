@@ -74,9 +74,9 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 <sub>CurseForge downloads, refreshed every 6 hours / Téléchargements CurseForge, actualisés toutes les 6 heures</sub>
 
 <!-- CURSEFORGE_START -->
-![Total Downloads](https://img.shields.io/badge/Total%20Downloads-618.5k-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white) ![Projects](https://img.shields.io/badge/Projects-7-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)
+![Total Downloads](https://img.shields.io/badge/Total%20Downloads-619.0k-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white) ![Projects](https://img.shields.io/badge/Projects-7-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)
 
-[![Polymorphic Refined Storage](https://img.shields.io/badge/Polymorphic%20Refined%20Storage-305.1k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/rs-polymorph)
+[![Polymorphic Refined Storage](https://img.shields.io/badge/Polymorphic%20Refined%20Storage-305.3k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/rs-polymorph)
 [![Arcadia: Echoes of Power V2](https://img.shields.io/badge/Arcadia%3A%20Echoes%20of%20Power%20V2-115.6k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/modpacks/arcadia-echoes-of-power-v2)
 [![Arcadia Admin Pannel](https://img.shields.io/badge/Arcadia%20Admin%20Pannel-62.4k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-admin-pannel)
 [![Arcadia Spawn Dimension](https://img.shields.io/badge/Arcadia%20Spawn%20Dimension-59.3k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-spawn-dimension)
@@ -94,7 +94,7 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 <!-- LANGUAGES_START -->
 ![Lua](https://img.shields.io/badge/Lua-31.78%25-FF7B29?style=flat-square&labelColor=0d1117&logo=lua&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-28.64%25-30363d?style=flat-square&labelColor=0d1117&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-27.21%25-30363d?style=flat-square&labelColor=0d1117&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-27.20%25-30363d?style=flat-square&labelColor=0d1117&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-5.97%25-30363d?style=flat-square&labelColor=0d1117&logo=python&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-5.56%25-30363d?style=flat-square&labelColor=0d1117&logo=css&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-0.76%25-30363d?style=flat-square&labelColor=0d1117&logo=html5&logoColor=white)
@@ -189,7 +189,7 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 <!-- QUOTE_END -->
 
 <!-- UPDATED_START -->
-<sub>Last updated / Dernière mise à jour : 2026-10-11 05:50 UTC</sub>
+<sub>Last updated / Dernière mise à jour : 2026-10-11 12:54 UTC</sub>
 <!-- UPDATED_END -->
 
 </div>
