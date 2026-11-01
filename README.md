@@ -74,9 +74,9 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 <sub>CurseForge downloads, refreshed every 6 hours / Téléchargements CurseForge, actualisés toutes les 6 heures</sub>
 
 <!-- CURSEFORGE_START -->
-![Total Downloads](https://img.shields.io/badge/Total%20Downloads-657.9k-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white) ![Projects](https://img.shields.io/badge/Projects-7-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)
+![Total Downloads](https://img.shields.io/badge/Total%20Downloads-658.4k-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white) ![Projects](https://img.shields.io/badge/Projects-7-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)
 
-[![Polymorphic Refined Storage](https://img.shields.io/badge/Polymorphic%20Refined%20Storage-325.9k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/rs-polymorph)
+[![Polymorphic Refined Storage](https://img.shields.io/badge/Polymorphic%20Refined%20Storage-326.2k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/rs-polymorph)
 [![Arcadia: Echoes of Power V2](https://img.shields.io/badge/Arcadia%3A%20Echoes%20of%20Power%20V2-118.0k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/modpacks/arcadia-echoes-of-power-v2)
 [![Arcadia Admin Pannel](https://img.shields.io/badge/Arcadia%20Admin%20Pannel-67.0k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-admin-pannel)
 [![Arcadia Spawn Dimension](https://img.shields.io/badge/Arcadia%20Spawn%20Dimension-63.3k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-spawn-dimension)
@@ -181,15 +181,15 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 <div align="center">
 
 <!-- QUOTE_START -->
-> *"The world is not the only one. There are many worlds, and many players."*
+> *"And the player was a new story, never told before, written in letters of DNA."*
 > **Julian Gough**, Minecraft End Poem
 
-> *"Le monde n'est pas le seul. Il y a beaucoup de mondes, et beaucoup de joueurs."*
+> *"Et le joueur était une nouvelle histoire, jamais racontée, écrite en lettres d'ADN."*
 > **Julian Gough**, Poème de fin de Minecraft
 <!-- QUOTE_END -->
 
 <!-- UPDATED_START -->
-<sub>Last updated / Dernière mise à jour : 2026-10-31 21:38 UTC</sub>
+<sub>Last updated / Dernière mise à jour : 2026-11-01 06:10 UTC</sub>
 <!-- UPDATED_END -->
 
 </div>
