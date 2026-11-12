@@ -74,13 +74,13 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 <sub>CurseForge downloads, refreshed every 6 hours / Téléchargements CurseForge, actualisés toutes les 6 heures</sub>
 
 <!-- CURSEFORGE_START -->
-![Total Downloads](https://img.shields.io/badge/Total%20Downloads-683.1k-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white) ![Projects](https://img.shields.io/badge/Projects-7-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)
+![Total Downloads](https://img.shields.io/badge/Total%20Downloads-683.9k-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white) ![Projects](https://img.shields.io/badge/Projects-7-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)
 
-[![Polymorphic Refined Storage](https://img.shields.io/badge/Polymorphic%20Refined%20Storage-336.8k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/rs-polymorph)
+[![Polymorphic Refined Storage](https://img.shields.io/badge/Polymorphic%20Refined%20Storage-337.3k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/rs-polymorph)
 [![Arcadia: Echoes of Power V2](https://img.shields.io/badge/Arcadia%3A%20Echoes%20of%20Power%20V2-119.3k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/modpacks/arcadia-echoes-of-power-v2)
-[![Arcadia Admin Pannel](https://img.shields.io/badge/Arcadia%20Admin%20Pannel-69.6k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-admin-pannel)
-[![Arcadia Spawn Dimension](https://img.shields.io/badge/Arcadia%20Spawn%20Dimension-65.2k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-spawn-dimension)
-[![Arcadia LootBox](https://img.shields.io/badge/Arcadia%20LootBox-64.5k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-lootbox)
+[![Arcadia Admin Pannel](https://img.shields.io/badge/Arcadia%20Admin%20Pannel-69.7k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-admin-pannel)
+[![Arcadia Spawn Dimension](https://img.shields.io/badge/Arcadia%20Spawn%20Dimension-65.3k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-spawn-dimension)
+[![Arcadia LootBox](https://img.shields.io/badge/Arcadia%20LootBox-64.6k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-lootbox)
 <!-- CURSEFORGE_END -->
 
 </div>
@@ -126,9 +126,9 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 | Date | Activity |
 |:--|:--|
 | 2026-11-10 | Released [laforetbrut/v-phone-fivem](https://github.com/laforetbrut/v-phone-fivem) `v1.7.27` |
+| 2026-11-10 | Pushed to [laforetbrut/v-phone-fivem](https://github.com/laforetbrut/v-phone-fivem) |
 | 2026-11-10 | Issue on [laforetbrut/v-phone-fivem](https://github.com/laforetbrut/v-phone-fivem) |
 | 2026-11-10 | Released [laforetbrut/v-phone-fivem](https://github.com/laforetbrut/v-phone-fivem) `v1.7.26` |
-| 2026-11-10 | Pushed to [laforetbrut/v-phone-fivem](https://github.com/laforetbrut/v-phone-fivem) |
 | 2026-11-08 | Issue on [Team-Arcadia/mods-mc-rspolymorph](https://github.com/Team-Arcadia/mods-mc-rspolymorph) |
 | 2026-11-07 | Pushed to [Team-Arcadia/images](https://github.com/Team-Arcadia/images) |
 <!-- RECENT_ACTIVITY_END -->
@@ -181,15 +181,15 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 <div align="center">
 
 <!-- QUOTE_START -->
-> *"Sometimes I see the dream wake the dreamer."*
-> **Julian Gough**, Minecraft End Poem
+> *"Don't take life too seriously. Even if you do, you won't make it out alive."*
+> **Markus "Notch" Persson**, creator of Minecraft
 
-> *"Parfois je vois le rêve éveiller le rêveur."*
-> **Julian Gough**, Poème de fin de Minecraft
+> *"Ne prends pas la vie trop au sérieux. Même si tu le fais, tu n'en sortiras pas vivant."*
+> **Markus "Notch" Persson**, créateur de Minecraft
 <!-- QUOTE_END -->
 
 <!-- UPDATED_START -->
-<sub>Last updated / Dernière mise à jour : 2026-11-11 19:38 UTC</sub>
+<sub>Last updated / Dernière mise à jour : 2026-11-12 07:14 UTC</sub>
 <!-- UPDATED_END -->
 
 </div>
