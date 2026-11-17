@@ -74,9 +74,9 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 <sub>CurseForge downloads, refreshed every 6 hours / Téléchargements CurseForge, actualisés toutes les 6 heures</sub>
 
 <!-- CURSEFORGE_START -->
-![Total Downloads](https://img.shields.io/badge/Total%20Downloads-692.6k-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white) ![Projects](https://img.shields.io/badge/Projects-7-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)
+![Total Downloads](https://img.shields.io/badge/Total%20Downloads-693.2k-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white) ![Projects](https://img.shields.io/badge/Projects-7-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)
 
-[![Polymorphic Refined Storage](https://img.shields.io/badge/Polymorphic%20Refined%20Storage-342.3k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/rs-polymorph)
+[![Polymorphic Refined Storage](https://img.shields.io/badge/Polymorphic%20Refined%20Storage-342.6k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/rs-polymorph)
 [![Arcadia: Echoes of Power V2](https://img.shields.io/badge/Arcadia%3A%20Echoes%20of%20Power%20V2-119.7k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/modpacks/arcadia-echoes-of-power-v2)
 [![Arcadia Admin Pannel](https://img.shields.io/badge/Arcadia%20Admin%20Pannel-70.6k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-admin-pannel)
 [![Arcadia Spawn Dimension](https://img.shields.io/badge/Arcadia%20Spawn%20Dimension-66.0k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-spawn-dimension)
@@ -125,12 +125,12 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 <!-- RECENT_ACTIVITY_START -->
 | Date | Activity |
 |:--|:--|
+| 2026-11-17 | Pull request on [laforetbrut/mod-just-replay](https://github.com/laforetbrut/mod-just-replay) |
+| 2026-11-17 | Released [laforetbrut/mod-just-replay](https://github.com/laforetbrut/mod-just-replay) `v1.1.1` |
+| 2026-11-17 | Released [Team-Arcadia/Arcadia-Dungeon](https://github.com/Team-Arcadia/Arcadia-Dungeon) `v2.0.3` |
+| 2026-11-17 | Pull request on [Team-Arcadia/Arcadia-Dungeon](https://github.com/Team-Arcadia/Arcadia-Dungeon) |
 | 2026-11-10 | Released [laforetbrut/v-phone-fivem](https://github.com/laforetbrut/v-phone-fivem) `v1.7.27` |
 | 2026-11-10 | Pushed to [laforetbrut/v-phone-fivem](https://github.com/laforetbrut/v-phone-fivem) |
-| 2026-11-10 | Issue on [laforetbrut/v-phone-fivem](https://github.com/laforetbrut/v-phone-fivem) |
-| 2026-11-10 | Released [laforetbrut/v-phone-fivem](https://github.com/laforetbrut/v-phone-fivem) `v1.7.26` |
-| 2026-11-08 | Issue on [Team-Arcadia/mods-mc-rspolymorph](https://github.com/Team-Arcadia/mods-mc-rspolymorph) |
-| 2026-11-07 | Pushed to [Team-Arcadia/images](https://github.com/Team-Arcadia/images) |
 <!-- RECENT_ACTIVITY_END -->
 
 </td>
@@ -141,11 +141,11 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 <!-- RELEASES_START -->
 | Date | Repository | Version |
 |:--|:--|:--|
+| 2026-11-17 | [laforetbrut/mod-just-replay](https://github.com/laforetbrut/mod-just-replay) | [`v1.1.1`](https://github.com/laforetbrut/mod-just-replay/releases/tag/v1.1.1) |
+| 2026-11-17 | [Team-Arcadia/Arcadia-Dungeon](https://github.com/Team-Arcadia/Arcadia-Dungeon) | [`v2.0.3`](https://github.com/Team-Arcadia/Arcadia-Dungeon/releases/tag/v2.0.3) |
 | 2026-11-12 | [Team-Arcadia/arcadia-guard](https://github.com/Team-Arcadia/arcadia-guard) | [`v1.6.1-neoforge-1.21.1`](https://github.com/Team-Arcadia/arcadia-guard/releases/tag/v1.6.1-neoforge-1.21.1) |
 | 2026-11-10 | [laforetbrut/v-phone-fivem](https://github.com/laforetbrut/v-phone-fivem) | [`v1.7.27`](https://github.com/laforetbrut/v-phone-fivem/releases/tag/v1.7.27) |
-| 2026-11-07 | [Team-Arcadia/Arcadia-Dungeon](https://github.com/Team-Arcadia/Arcadia-Dungeon) | [`v2.0.2`](https://github.com/Team-Arcadia/Arcadia-Dungeon/releases/tag/v2.0.2) |
 | 2026-11-06 | [Team-Arcadia/mods-mc-rspolymorph](https://github.com/Team-Arcadia/mods-mc-rspolymorph) | [`v1.3.0`](https://github.com/Team-Arcadia/mods-mc-rspolymorph/releases/tag/v1.3.0) |
-| 2026-11-06 | [Team-Arcadia/arcadia-tweaks](https://github.com/Team-Arcadia/arcadia-tweaks) | [`v0.3.1`](https://github.com/Team-Arcadia/arcadia-tweaks/releases/tag/v0.3.1) |
 <!-- RELEASES_END -->
 
 </td>
@@ -181,15 +181,15 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 <div align="center">
 
 <!-- QUOTE_START -->
-> *"Mine your own business."*
-> **Minecraft community**, community pun
+> *"Don't take life too seriously. Even if you do, you won't make it out alive."*
+> **Markus "Notch" Persson**, creator of Minecraft
 
-> *"Occupe-toi de tes propres affaires de minage."*
-> **Minecraft community**, jeu de mots de la communauté
+> *"Ne prends pas la vie trop au sérieux. Même si tu le fais, tu n'en sortiras pas vivant."*
+> **Markus "Notch" Persson**, créateur de Minecraft
 <!-- QUOTE_END -->
 
 <!-- UPDATED_START -->
-<sub>Last updated / Dernière mise à jour : 2026-11-16 22:07 UTC</sub>
+<sub>Last updated / Dernière mise à jour : 2026-11-17 07:57 UTC</sub>
 <!-- UPDATED_END -->
 
 </div>
