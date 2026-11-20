@@ -74,13 +74,13 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 <sub>CurseForge downloads, refreshed every 6 hours / Téléchargements CurseForge, actualisés toutes les 6 heures</sub>
 
 <!-- CURSEFORGE_START -->
-![Total Downloads](https://img.shields.io/badge/Total%20Downloads-697.3k-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white) ![Projects](https://img.shields.io/badge/Projects-7-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)
+![Total Downloads](https://img.shields.io/badge/Total%20Downloads-698.0k-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white) ![Projects](https://img.shields.io/badge/Projects-7-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)
 
-[![Polymorphic Refined Storage](https://img.shields.io/badge/Polymorphic%20Refined%20Storage-345.0k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/rs-polymorph)
+[![Polymorphic Refined Storage](https://img.shields.io/badge/Polymorphic%20Refined%20Storage-345.4k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/rs-polymorph)
 [![Arcadia: Echoes of Power V2](https://img.shields.io/badge/Arcadia%3A%20Echoes%20of%20Power%20V2-119.9k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/modpacks/arcadia-echoes-of-power-v2)
-[![Arcadia Admin Pannel](https://img.shields.io/badge/Arcadia%20Admin%20Pannel-71.0k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-admin-pannel)
-[![Arcadia Spawn Dimension](https://img.shields.io/badge/Arcadia%20Spawn%20Dimension-66.3k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-spawn-dimension)
-[![Arcadia LootBox](https://img.shields.io/badge/Arcadia%20LootBox-65.6k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-lootbox)
+[![Arcadia Admin Pannel](https://img.shields.io/badge/Arcadia%20Admin%20Pannel-71.1k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-admin-pannel)
+[![Arcadia Spawn Dimension](https://img.shields.io/badge/Arcadia%20Spawn%20Dimension-66.4k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-spawn-dimension)
+[![Arcadia LootBox](https://img.shields.io/badge/Arcadia%20LootBox-65.7k%20dl-FF7B29?style=for-the-badge&labelColor=0d1117&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/arcadia-lootbox)
 <!-- CURSEFORGE_END -->
 
 </div>
@@ -92,12 +92,12 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 <div align="center">
 
 <!-- LANGUAGES_START -->
-![Java](https://img.shields.io/badge/Java-36.77%25-FF7B29?style=flat-square&labelColor=0d1117&logo=openjdk&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-27.34%25-30363d?style=flat-square&labelColor=0d1117&logo=lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-23.41%25-30363d?style=flat-square&labelColor=0d1117&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-5.93%25-30363d?style=flat-square&labelColor=0d1117&logo=python&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-4.79%25-30363d?style=flat-square&labelColor=0d1117&logo=css&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-1.36%25-30363d?style=flat-square&labelColor=0d1117&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-37.81%25-FF7B29?style=flat-square&labelColor=0d1117&logo=openjdk&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-26.82%25-30363d?style=flat-square&labelColor=0d1117&logo=lua&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-22.97%25-30363d?style=flat-square&labelColor=0d1117&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-5.97%25-30363d?style=flat-square&labelColor=0d1117&logo=python&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-4.70%25-30363d?style=flat-square&labelColor=0d1117&logo=css&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-1.33%25-30363d?style=flat-square&labelColor=0d1117&logo=html5&logoColor=white)
 <!-- LANGUAGES_END -->
 
 <sub>Languages across public personal and Team Arcadia repos / Langages sur tous les repos publics</sub>
@@ -126,11 +126,11 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 | Date | Activity |
 |:--|:--|
 | 2026-11-20 | Pull request on [laforetbrut/mod-just-replay](https://github.com/laforetbrut/mod-just-replay) |
-| 2026-11-18 | Pushed to [laforetbrut/mod-just-replay](https://github.com/laforetbrut/mod-just-replay) |
+| 2026-11-20 | Released [laforetbrut/mod-just-replay](https://github.com/laforetbrut/mod-just-replay) `v1.2.0` |
+| 2026-11-20 | Pushed to [laforetbrut/mod-just-replay](https://github.com/laforetbrut/mod-just-replay) |
 | 2026-11-18 | Released [laforetbrut/mods-mc-laura](https://github.com/laforetbrut/mods-mc-laura) `v2.1.0` |
 | 2026-11-18 | Pushed to [laforetbrut/mods-mc-laura](https://github.com/laforetbrut/mods-mc-laura) |
 | 2026-11-18 | Pull request on [laforetbrut/mods-mc-laura](https://github.com/laforetbrut/mods-mc-laura) |
-| 2026-11-18 | Released [laforetbrut/v-sport-fivem](https://github.com/laforetbrut/v-sport-fivem) `v1.0.4` |
 <!-- RECENT_ACTIVITY_END -->
 
 </td>
@@ -141,9 +141,9 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 <!-- RELEASES_START -->
 | Date | Repository | Version |
 |:--|:--|:--|
+| 2026-11-20 | [laforetbrut/mod-just-replay](https://github.com/laforetbrut/mod-just-replay) | [`v1.2.0`](https://github.com/laforetbrut/mod-just-replay/releases/tag/v1.2.0) |
 | 2026-11-18 | [laforetbrut/mods-mc-laura](https://github.com/laforetbrut/mods-mc-laura) | [`v2.1.0`](https://github.com/laforetbrut/mods-mc-laura/releases/tag/v2.1.0) |
 | 2026-11-18 | [laforetbrut/v-sport-fivem](https://github.com/laforetbrut/v-sport-fivem) | [`v1.0.4`](https://github.com/laforetbrut/v-sport-fivem/releases/tag/v1.0.4) |
-| 2026-11-18 | [laforetbrut/mod-just-replay](https://github.com/laforetbrut/mod-just-replay) | [`v1.1.2`](https://github.com/laforetbrut/mod-just-replay/releases/tag/v1.1.2) |
 | 2026-11-17 | [Team-Arcadia/Arcadia-Dungeon](https://github.com/Team-Arcadia/Arcadia-Dungeon) | [`v2.0.3`](https://github.com/Team-Arcadia/Arcadia-Dungeon/releases/tag/v2.0.3) |
 | 2026-11-12 | [Team-Arcadia/arcadia-guard](https://github.com/Team-Arcadia/arcadia-guard) | [`v1.6.1-neoforge-1.21.1`](https://github.com/Team-Arcadia/arcadia-guard/releases/tag/v1.6.1-neoforge-1.21.1) |
 <!-- RELEASES_END -->
@@ -181,15 +181,15 @@ Je bricole du Minecraft moddé, j'écris des ressources FiveM open source, et je
 <div align="center">
 
 <!-- QUOTE_START -->
-> *"The world is only as limited as your imagination."*
-> **Mojang**, Minecraft tagline
+> *"It's just a game. But the worlds are real."*
+> **Minecraft community**, community saying
 
-> *"Le monde n'est limité que par ton imagination."*
-> **Mojang**, slogan Minecraft
+> *"Ce n'est qu'un jeu. Mais les mondes sont réels."*
+> **Minecraft community**, dicton de la communauté
 <!-- QUOTE_END -->
 
 <!-- UPDATED_START -->
-<sub>Last updated / Dernière mise à jour : 2026-11-20 07:20 UTC</sub>
+<sub>Last updated / Dernière mise à jour : 2026-11-20 20:24 UTC</sub>
 <!-- UPDATED_END -->
 
 </div>
